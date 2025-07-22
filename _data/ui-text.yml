@@ -109,7 +109,7 @@ fr: &DEFAULT_FR
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
   date_label                 : "Mis à jour :"
-  comments_label             : "Laisser un commentaire"
+  comments_label              : "Laisser un commentaire"
   comments_title             :
   more_label                 : "Lire plus"
   related_label              : "Vous pourriez aimer"
