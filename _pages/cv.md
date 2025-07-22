@@ -9,37 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+À propos
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Médecin spécialisé en **pédiatrie du développement**, avec une formation complémentaire en **santé publique** et **recherche clinique**. Je m’intéresse au neurodéveloppement de l’enfant, aux trajectoires familiales, aux déterminants sociaux de la santé, ainsi qu’à la défense des droits et intérêts des enfants ayant des besoins particuliers.  
+Ma pratique clinique et mes collaborations en recherche visent à mieux comprendre les facteurs socioéconomiques, culturels et sociaux qui influencent le développement de l’enfant.
 
-Work experience
+---
+
+Formation
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Maîtrise en santé publique (recherche)** – Université de Montréal *(2023–2025, en cours)*  
+* **Doctorat en médecine (MD)** – Université de Montréal  
+* **Fellow du Collège royal en pédiatrie (FRCPC)** – Université de Montréal  
+* **Fellowship en pédiatrie du développement** – Université de Montréal  
+* **Études postdoctorales en pédiatrie** – University of Saskatchewan  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Expérience professionnelle
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Professeur adjoint de clinique**  
+  * Université de Montréal *(depuis juin 2025)*
+
+* **Pédiatre du développement**  
+  * CHU Sainte-Justine *(depuis mai 2024)*
+
+* **Chargé de cours**  
+  * Université du Québec en Outaouais *(depuis sept. 2024)*  
+  * Cours sur la paralysie cérébrale, les comorbidités et la prise en charge fonctionnelle.
+
+* **Pédiatre**  
+  * Centre Médical Mieux-Être – Succursale Bloom *(nov. 2023 – déc. 2024)*
+
+---
+
+Intérêts de recherche
+======
+* Développement de l’enfant et trajectoires familiales  
+* Déterminants sociaux de la santé  
+* Troubles du développement et comorbidités  
+* Santé mentale pédiatrique et prévention du suicide  
+* Politiques publiques et équité en santé  
+
+---
+
 
 Publications
 ======
@@ -53,7 +66,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Formations et congrès
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
