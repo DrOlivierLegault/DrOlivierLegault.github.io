@@ -1,0 +1,14 @@
+- name: Dr Olivier Legault
+  role: Directeur du laboratoire
+  image: profile.jpg
+  bio: Pédiatre du développement et chercheur en santé publique.
+
+- name: Marie Tremblay
+  role: Étudiante à la maîtrise
+  image: marie.jpg
+  bio: S'intéresse aux trajectoires développementales atypiques et aux déterminants sociaux.
+
+- name: Karim Benyamina
+  role: Assistant de recherche
+  image: karim.jpg
+  bio: Coordonne la collecte de données et les analyses statistiques.

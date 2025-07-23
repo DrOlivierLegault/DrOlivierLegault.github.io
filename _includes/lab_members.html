@@ -1,0 +1,10 @@
+<div class="team-members" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  {% for member in site.data.lab_members %}
+    <div style="width: 250px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1rem; text-align: center;">
+      <img src="{{ '/images/lab/' | append: member.image | relative_url }}" alt="{{ member.name }}" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin-bottom: 1rem;">
+      <h3 style="margin-bottom: 0.2rem;">{{ member.name }}</h3>
+      <p style="margin: 0; font-weight: bold;">{{ member.role }}</p>
+      <p style="font-size: 0.9rem; color: #555;">{{ member.bio }}</p>
+    </div>
+  {% endfor %}
+</div>
