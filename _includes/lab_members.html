@@ -1,10 +1,115 @@
-<div class="team-members" style="display: flex; flex-wrap: wrap; gap: 2rem;">
-  {% for member in site.data.lab_members %}
-    <div style="width: 250px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1rem; text-align: center;">
-      <img src="{{ '/images/lab/' | append: member.image | relative_url }}" alt="{{ member.name }}" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin-bottom: 1rem;">
-      <h3 style="margin-bottom: 0.2rem;">{{ member.name }}</h3>
-      <p style="margin: 0; font-weight: bold;">{{ member.role }}</p>
-      <p style="font-size: 0.9rem; color: #555;">{{ member.bio }}</p>
+<style>
+  .team-intro {
+    max-width: 700px;
+    margin: 0 auto 2rem auto;
+    font-size: 1.1rem;
+    color: #333;
+    text-align: center;
+  }
+
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+
+  .member-card {
+    width: 250px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    background: #fafafa;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+  }
+
+  .member-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  }
+
+  .member-image {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+  }
+
+  .member-name {
+    margin-bottom: 0.2rem;
+    font-size: 1.2rem;
+    color: #222;
+  }
+
+  .member-role {
+    margin: 0;
+    font-weight: 600;
+    color: #444;
+  }
+
+  .member-bio {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 0.5rem;
+  }
+</style>
+
+<div class="team-intro">
+  <p>Welcome to our research team page! Here you can meet our doctors, graduate students, and other team members who contribute to our work in various ways.</p>
+</div>
+
+<h2>Doctors</h2>
+<div class="team-members">
+  {% assign doctors = site.data.lab_members | where: "position_category", "doctor" %}
+  {% for member in doctors %}
+    <div class="member-card">
+      <img src="{{ '/images/lab/' | append: member.image | relative_url }}" alt="{{ member.name }}" class="member-image">
+      <h3 class="member-name">{{ member.name }}</h3>
+      <p class="member-role">{{ member.role }}</p>
+      <p class="member-bio">{{ member.bio }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Master Students</h2>
+<div class="team-members">
+  {% assign masters = site.data.lab_members | where: "position_category", "master_student" %}
+  {% for member in masters %}
+    <div class="member-card">
+      <img src="{{ '/images/lab/' | append: member.image | relative_url }}" alt="{{ member.name }}" class="member-image">
+      <h3 class="member-name">{{ member.name }}</h3>
+      <p class="member-role">{{ member.role }}</p>
+      <p class="member-bio">{{ member.bio }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Students</h2>
+<div class="team-members">
+  {% assign students = site.data.lab_members | where: "position_category", "student" %}
+  {% for member in students %}
+    <div class="member-card">
+      <img src="{{ '/images/lab/' | append: member.image | relative_url }}" alt="{{ member.name }}" class="member-image">
+      <h3 class="member-name">{{ member.name }}</h3>
+      <p class="member-role">{{ member.role }}</p>
+      <p class="member-bio">{{ member.bio }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Others</h2>
+<div class="team-members">
+  {% assign others = site.data.lab_members | where: "position_category", "other" %}
+  {% for member in others %}
+    <div class="member-card">
+      <img src="{{ '/images/lab/' | append: member.image | relative_url }}" alt="{{ member.name }}" class="member-image">
+      <h3 class="member-name">{{ member.name }}</h3>
+      <p class="member-role">{{ member.role }}</p>
+      <p class="member-bio">{{ member.bio }}</p>
     </div>
   {% endfor %}
 </div>

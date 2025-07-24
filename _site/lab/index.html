@@ -288,27 +288,111 @@
       <section class="page__content" itemprop="text">
         <h2 id="membres-du-laboratoire">Membres du laboratoire</h2>
 
-<div class="team-members" style="display: flex; flex-wrap: wrap; gap: 2rem;">
+<style>
+  .team-intro {
+    max-width: 700px;
+    margin: 0 auto 2rem auto;
+    font-size: 1.1rem;
+    color: #333;
+    text-align: center;
+  }
+
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+
+  .member-card {
+    width: 250px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    background: #fafafa;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+  }
+
+  .member-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  }
+
+  .member-image {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+  }
+
+  .member-name {
+    margin-bottom: 0.2rem;
+    font-size: 1.2rem;
+    color: #222;
+  }
+
+  .member-role {
+    margin: 0;
+    font-weight: 600;
+    color: #444;
+  }
+
+  .member-bio {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 0.5rem;
+  }
+</style>
+
+<div class="team-intro">
+  <p>Welcome to our research team page! Here you can meet our doctors, graduate students, and other team members who contribute to our work in various ways.</p>
+</div>
+
+<h2>Doctors</h2>
+<div class="team-members">
   
-    <div style="width: 250px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1rem; text-align: center;">
-      <img src="/olivierrlegault/images/lab/profile.jpg" alt="Dr Olivier Legault" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin-bottom: 1rem;" />
-      <h3 style="margin-bottom: 0.2rem;">Dr Olivier Legault</h3>
-      <p style="margin: 0; font-weight: bold;">Directeur du laboratoire</p>
-      <p style="font-size: 0.9rem; color: #555;">Pédiatre du développement et chercheur en santé publique.</p>
+  
+    <div class="member-card">
+      <img src="/olivierrlegault/images/lab/profile.jpg" alt="Dr Olivier Legault" class="member-image" />
+      <h3 class="member-name">Dr Olivier Legault</h3>
+      <p class="member-role">Directeur du laboratoire</p>
+      <p class="member-bio">Pédiatre du développement et chercheur en santé publique.</p>
     </div>
   
-    <div style="width: 250px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1rem; text-align: center;">
-      <img src="/olivierrlegault/images/lab/marie.jpg" alt="Marie Tremblay" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin-bottom: 1rem;" />
-      <h3 style="margin-bottom: 0.2rem;">Marie Tremblay</h3>
-      <p style="margin: 0; font-weight: bold;">Étudiante à la maîtrise</p>
-      <p style="font-size: 0.9rem; color: #555;">S'intéresse aux trajectoires développementales atypiques et aux déterminants sociaux.</p>
+    <div class="member-card">
+      <img src="/olivierrlegault/images/lab/marie.jpg" alt="Marie Tremblay" class="member-image" />
+      <h3 class="member-name">Marie Tremblay</h3>
+      <p class="member-role">Étudiante à la maîtrise</p>
+      <p class="member-bio">S'intéresse aux trajectoires développementales atypiques et aux déterminants sociaux.</p>
     </div>
   
-    <div style="width: 250px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1rem; text-align: center;">
-      <img src="/olivierrlegault/images/lab/karim.jpg" alt="Karim Benyamina" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin-bottom: 1rem;" />
-      <h3 style="margin-bottom: 0.2rem;">Karim Benyamina</h3>
-      <p style="margin: 0; font-weight: bold;">Assistant de recherche</p>
-      <p style="font-size: 0.9rem; color: #555;">Coordonne la collecte de données et les analyses statistiques.</p>
+</div>
+
+<h2>Master Students</h2>
+<div class="team-members">
+  
+  
+</div>
+
+<h2>Students</h2>
+<div class="team-members">
+  
+  
+</div>
+
+<h2>Others</h2>
+<div class="team-members">
+  
+  
+    <div class="member-card">
+      <img src="/olivierrlegault/images/lab/karim.jpg" alt="Karim Benyamina" class="member-image" />
+      <h3 class="member-name">Karim Benyamina</h3>
+      <p class="member-role">Assistant de recherche</p>
+      <p class="member-bio">Coordonne la collecte de données et les analyses statistiques.</p>
     </div>
   
 </div>
@@ -380,7 +464,7 @@
 <!-- Section : Droits d’auteur -->
 <div class="page__footer-copyright">
   &copy; 2025 Olivier Legault, Propulsé par <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, une adaptation de <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Dernière mise à jour du site : 2025-07-23
+  Dernière mise à jour du site : 2025-07-24
 </div>
       </footer>
     </div>
