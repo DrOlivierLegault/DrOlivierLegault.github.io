@@ -75,3 +75,9 @@ Formations et congrès
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Lettres d'intérêts
+======
+  <ul>{% for post in site.lettres_ouvertes reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

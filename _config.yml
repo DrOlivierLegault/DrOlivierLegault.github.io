@@ -229,6 +229,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  lettres_ouvertes:
+    output: true
+    permalink: /lettres_ouvertes/:title/
 
 
 # These settings control how pages and collections are included in the site

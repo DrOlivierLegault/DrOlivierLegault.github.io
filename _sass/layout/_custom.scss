@@ -1,0 +1,42 @@
+.lettres-ouvertes {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: Georgia, serif;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+}
+
+.intro {
+  font-style: italic;
+  color: #555;
+}
+
+.lettres-list {
+  list-style: none;
+  padding: 0;
+}
+
+.lettre-item {
+  border-bottom: 1px solid #ccc;
+  padding: 1rem 0;
+}
+
+.lettre-item a {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.lettre-meta {
+  font-size: 0.9rem;
+  color: #777;
+}
