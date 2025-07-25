@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-CA"       
+locale                   : "fr"       
 site_theme               : "default"
 title                    : "Dr Olivier Legault"
 title_separator          : "-"

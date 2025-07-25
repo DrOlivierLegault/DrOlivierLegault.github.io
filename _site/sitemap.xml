@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/olivierrlegault/lettres_ouvertes/2024-07-letter-to-journal</loc>
+<loc>http://localhost:4000/olivierrlegault/lettres_ouvertes/2023-09-tout-petits-soutien-particulier/</loc>
+<lastmod>2023-09-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/olivierrlegault/lettres_ouvertes/2025-04-CPE-greve/</loc>
 <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/olivierrlegault/lettres_ouvertes/2024-09-temps-ecran/</loc>
+<lastmod>2025-05-12T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/olivierrlegault/portfolio/portfolio-1/</loc>
@@ -93,9 +101,6 @@
 <loc>http://localhost:4000/olivierrlegault/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/olivierrlegault/lab/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/olivierrlegault/lettres_ouvertes/</loc>
 </url>
 <url>
@@ -115,6 +120,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/olivierrlegault/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/olivierrlegault/recherche-projet/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/olivierrlegault/sitemap/</loc>
