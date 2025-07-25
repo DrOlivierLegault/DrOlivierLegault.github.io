@@ -7,15 +7,19 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-CA"
+# locale                   : "fr-CA"
+default_lang: "fr"
+languages: ["en", "fr"]
 site_theme               : "default"
 title                    : "Dr Olivier Legault"
 title_separator          : "-"
 name                     : &name "Olivier Legault"
 description              : &description "Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine"
-url                      : https://olivierrlegault.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://olivierrlegault.github.io/olivierrlegault # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/olivierrlegault" # the subpath of your site, e.g. "/blog"
 repository               : "olivierrlegault/olivierrlegault.github.io"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+parallel_localization.   : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
