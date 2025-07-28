@@ -62,7 +62,7 @@
 }
 
 .masthead__menu {
-
+  text-align: center; /* Force l’alignement centrée dans ce conteneur */
   ul {
     margin: 0;
     padding: 0;
@@ -81,4 +81,17 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+
+/* Nouvelle partie pour centrer les liens et ajouter le séparateur */
+.visible-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+}
+.visible-links .separator {
+  color: #999;
+  pointer-events: none;
 }
