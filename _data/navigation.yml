@@ -8,24 +8,24 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Blog Posts"
-    url: /year-archive/
-
+  - title: "Articles & ressources"
+    url: /ressources/
+    
   - title: "Pratique clinique"
     url: /pratique-clinique/
 
-  - title: "Recherche et projets"
-    url: /recherche-projet/
+  - title: "Recherche"
+    url: /recherche/
+
+  - title: "Formations & congrès"
+    url: /formations-congres/
+
+  - title: "Défense d'intérêts"
+    url: /engagement-public/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Formations et congrès"
-    url: /formation-congres/
-
-  - title: "Défense d'intérets"
-    url: /lettres_ouvertes/
-        
   - title: "CV"
     url: /cv/
 

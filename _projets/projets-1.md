@@ -2,8 +2,8 @@
 title: "Titre du projet"
 layout: single
 sidebar: true
-permalink: /projets/projets-1/
-category: en cours
+permalink: recherche/projets/projets-1/
+status: en cours
 collection: projets
 author_profile: true
 ---

@@ -21,3 +21,4 @@ Si vous souhaitez prendre rendez-vous, veuillez consulter le [portail de prise d
 ---
 
 *Cette page est destinée aux parents, médecins référents et collègues souhaitant en savoir plus sur ma pratique clinique.*
+

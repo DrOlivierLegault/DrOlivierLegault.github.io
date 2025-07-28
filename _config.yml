@@ -90,7 +90,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -217,7 +217,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  formations-congres:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -229,12 +229,16 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  lettres_ouvertes:
+  engagement-public:
     output: true
     permalink: /lettres_ouvertes/:title/
   projets:
     output: true
     permalink: /projets/:path/
+  ressources:
+    output: true
+    permalink: /ressources/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -257,10 +261,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _formations-congres
   - scope:
       path: ""
-      type: teaching
+      type: formations-congres
     values:
       layout: single
       author_profile: true
@@ -302,6 +306,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _ressources
+  - scope:
+      path: ""
+      type: ressources
+    values:
+      layout: archive
+      author_profile: true
 
 
 # Sass/SCSS

@@ -68,7 +68,7 @@ Talks
   
 Formations et congrès
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.formations-congres reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
