@@ -1,7 +1,7 @@
 ---
 title: 'Future ressources'
 date: 2199-01-01
-permalink: /ressources/2012/08/blog-post-4/
+permalink: /ressources/2012/08/ressources-4/
 tags:
   - cool posts
   - category1

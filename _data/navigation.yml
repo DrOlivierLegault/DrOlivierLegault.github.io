@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Articles & ressources"
-    url: /ressources/
+  - title: "Articles &<br>ressources"
+    url: /year-archive/
     
   - title: "Pratique clinique"
     url: /pratique-clinique/
@@ -17,7 +17,7 @@ main:
   - title: "Recherche"
     url: /recherche/
 
-  - title: "Formations & congrès"
+  - title: "Formations &<br>congrès"
     url: /formations-congres/
 
   - title: "Défense d'intérêts"

@@ -231,7 +231,7 @@ collections:
     permalink: /:collection/:path/
   engagement-public:
     output: true
-    permalink: /lettres_ouvertes/:title/
+    permalink: /engagement-public/:title/
   projets:
     output: true
     permalink: /projets/:path/
@@ -240,10 +240,9 @@ collections:
     permalink: /ressources/:path/
 
 
-
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _ressources
   - scope:
       path: ""
       type: posts
