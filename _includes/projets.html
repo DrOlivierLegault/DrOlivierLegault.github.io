@@ -1,0 +1,151 @@
+<section id="projets" class="projets-section">
+  {% if site.projets and site.projets.size > 0 %}
+    <div class="projets-grid">
+      {% for projet in site.projets %}
+        <article class="projet-card">
+          <div class="projet-card-content">
+            <h3 class="projet-title">
+              <a href="{{ projet.url | relative_url }}">{{ projet.title }}</a>
+            </h3>
+            {% if projet.status %}
+              <span class="projet-status">{{ projet.status }}</span>
+            {% endif %}
+            {% if projet.excerpt %}
+              <p class="projet-excerpt">{{ projet.excerpt }}</p>
+            {% endif %}
+            <a href="{{ projet.url | relative_url }}" class="projet-link">Voir plus →</a>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="no-projets">Aucun projet trouvé.</p>
+  {% endif %}
+</section>
+
+<style>
+/* Base Styles */
+.projets-section {
+  padding: 2rem 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.no-projets {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
+/* Card Grid Layout */
+.projets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.projet-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+  border: 1px solid #eaeaea;
+}
+
+.projet-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+.projet-card-content {
+  padding: 1.5rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Project Title */
+.projet-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.projet-title a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.projet-title a:hover {
+  color: #3498db;
+}
+
+/* Project Status */
+.projet-status {
+  display: inline-block;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
+  background: #f5f5f5;
+  color: #666;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+/* Project Excerpt */
+.projet-excerpt {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0 0 1.5rem 0;
+  flex-grow: 1;
+}
+
+/* See More Link */
+.projet-link {
+  display: inline-block;
+  color: #3498db;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s ease;
+  align-self: flex-start;
+}
+
+.projet-link:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+.projet-link::after {
+  content: "→";
+  margin-left: 0.3rem;
+  transition: margin-left 0.2s ease;
+}
+
+.projet-link:hover::after {
+  margin-left: 0.5rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .projets-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .projet-card {
+    margin: 0 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .projet-card {
+    margin: 0;
+  }
+}
+</style>

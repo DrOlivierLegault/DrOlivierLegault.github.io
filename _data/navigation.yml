@@ -8,35 +8,37 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Pratique clinique"
+    url: /pratique-clinique/
 
   - title: "Recherche et projets"
     url: /recherche-projet/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Formations et congrès"
-    url: /formation-congres/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-#  - title: "Guide"
-#    url: /markdown/
+    url: /formation-congres/
 
   - title: "Défense d'intérets"
     url: /lettres_ouvertes/
+        
+  - title: "CV"
+    url: /cv/
 
-  - title: "Pratique clinique"
-    url: /pratique-clinique/
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+    
+  # - title: "CV"
+  #   url: /cv-json/
+
+#  - title: "Guide"
+#    url: /markdown/
+
+

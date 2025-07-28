@@ -6,7 +6,22 @@ classes: wide
 author_profile: true
 ---
 
-## Collaborateurs et collaboratrices des projets de recherche
+{% include toc %}
+
+{% include base_path %}
+
+## Projets en cours et à venir
+
+{% include projets.html %}
+
+
+## Collaborateurs et collaboratrices<br>des projets
 
 {% include lab_members.html %}
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 

@@ -232,6 +232,9 @@ collections:
   lettres_ouvertes:
     output: true
     permalink: /lettres_ouvertes/:title/
+  projets:
+    output: true
+    permalink: /projets/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -289,6 +292,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _projets    
+  - scope:
+      path: ""
+      type: projets
+    values:
+      layout: single
+      sidebar: true
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS

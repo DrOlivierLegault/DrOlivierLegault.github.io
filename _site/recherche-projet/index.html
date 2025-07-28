@@ -133,22 +133,25 @@
 </li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/publications/">Publications</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/year-archive/">Blog Posts</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/pratique-clinique/">Pratique clinique</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/recherche-projet/">Recherche et projets</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/formation-congres/">Formations et congrès</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/cv/">CV</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/formation-congres/">Formations et congrès</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/lettres_ouvertes/">Défense d'intérets</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/pratique-clinique/">Pratique clinique</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/olivierrlegault/cv/">CV</a></li>
           
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
@@ -179,12 +182,12 @@
 
   <div class="author__avatar">
     
-    	<img src="http://localhost:4000/olivierrlegault/images/profile.jpg" class="author__avatar" alt="Dr Legault"  fetchpriority="high" />
+    	<img src="http://localhost:4000/olivierrlegault/images/profile.jpg" class="author__avatar" alt="Dr Olivier Legault"  fetchpriority="high" />
     
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">Dr Legault</h3>
+    <h3 class="author__name">Dr Olivier Legault</h3>
     
     <p class="author__bio">Pédiatre du développement, chercheur et enseignant</p>
   </div>
@@ -292,7 +295,186 @@
       
 
       <section class="page__content" itemprop="text">
-        <h2 id="collaborateurs-et-collaboratrices-des-projets-de-recherche">Collaborateurs et collaboratrices des projets de recherche</h2>
+        <aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Sur cette page</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#projets-en-cours-et-à-venir" id="markdown-toc-projets-en-cours-et-à-venir">Projets en cours et à venir</a></li>
+  <li><a href="#collaborateurs-et-collaboratricesdes-projets" id="markdown-toc-collaborateurs-et-collaboratricesdes-projets">Collaborateurs et collaboratrices<br />des projets</a></li>
+  <li><a href="#publications" id="markdown-toc-publications">Publications</a></li>
+</ul>
+
+  </nav>
+</aside>
+
+<h2 id="projets-en-cours-et-à-venir">Projets en cours et à venir</h2>
+
+<section id="projets" class="projets-section">
+  
+    <div class="projets-grid">
+      
+        <article class="projet-card">
+          <div class="projet-card-content">
+            <h3 class="projet-title">
+              <a href="/olivierrlegault/projets/projets-1/">Titre du projet</a>
+            </h3>
+            
+            
+              <p class="projet-excerpt"><h2 id="contenu-détaillé-du-projet-ici">Contenu détaillé du projet ici.</h2>
+
+</p>
+            
+            <a href="/olivierrlegault/projets/projets-1/" class="projet-link">Voir plus →</a>
+          </div>
+        </article>
+      
+        <article class="projet-card">
+          <div class="projet-card-content">
+            <h3 class="projet-title">
+              <a href="/olivierrlegault/projets/projets-2/">Titre du projet -2</a>
+            </h3>
+            
+            
+              <p class="projet-excerpt"><h2 id="contenu-détaillé-du-projet-ici">Contenu détaillé du projet ici.</h2>
+
+</p>
+            
+            <a href="/olivierrlegault/projets/projets-2/" class="projet-link">Voir plus →</a>
+          </div>
+        </article>
+      
+    </div>
+  
+</section>
+
+<style>
+/* Base Styles */
+.projets-section {
+  padding: 2rem 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.no-projets {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
+/* Card Grid Layout */
+.projets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.projet-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+  border: 1px solid #eaeaea;
+}
+
+.projet-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+.projet-card-content {
+  padding: 1.5rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Project Title */
+.projet-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.projet-title a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.projet-title a:hover {
+  color: #3498db;
+}
+
+/* Project Status */
+.projet-status {
+  display: inline-block;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
+  background: #f5f5f5;
+  color: #666;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+/* Project Excerpt */
+.projet-excerpt {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0 0 1.5rem 0;
+  flex-grow: 1;
+}
+
+/* See More Link */
+.projet-link {
+  display: inline-block;
+  color: #3498db;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s ease;
+  align-self: flex-start;
+}
+
+.projet-link:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+.projet-link::after {
+  content: "→";
+  margin-left: 0.3rem;
+  transition: margin-left 0.2s ease;
+}
+
+.projet-link:hover::after {
+  margin-left: 0.5rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .projets-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .projet-card {
+    margin: 0 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .projet-card {
+    margin: 0;
+  }
+}
+</style>
+
+<h2 id="collaborateurs-et-collaboratricesdes-projets">Collaborateurs et collaboratrices<br />des projets</h2>
 
 <style>
   .team-intro {
@@ -403,6 +585,101 @@
   
 </div>
 
+<h1 id="publications">Publications</h1>
+<ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/olivierrlegault/publication/2025-05-12-maternal-smoking-mental-health" rel="permalink">The Moderating Role of Socioeconomic Status in Early Maternal Smoking Exposure and Mental Health Service Utilization of Young Adults: A Population-Representative Longitudinal Study in Quebec
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Legault, O., Côté, S. M., &amp; Chadi, N. (2025). "The Moderating Role of Socioeconomic Status in Early Maternal Smoking Exposure and Mental Health Service Utilization of Young Adults: A Population-Representative Longitudinal Study in Quebec." <i>Canadian National Perinatal Research Meeting</i>, Montréal, May 2025.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/olivierrlegault/publication/2022-11-01-bris-fonctionnement-tsa" rel="permalink">Bris de fonctionnement et TSA - une approche sans tracas
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Jaworski, M. &amp; Legault, O. (2022). "Bris de fonctionnement et TSA – une approche sans tracas." <i>Le Médecin du Québec</i>, 57(11).</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/olivierrlegault/publication/2022-10-01-referrals-asd-saskatchewan" rel="permalink">Patterns of referrals for evaluation of Autism Spectrum Disorder in the pediatric population of Saskatchewan as a predictor of diagnostic outcome
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Olivier Legault, Ruth Neufeld. (2022). "Patterns of referrals for evaluation of Autism Spectrum Disorder in the pediatric population of Saskatchewan as a predictor of diagnostic outcome." <i>Paediatrics &amp; Child Health</i>, 27(Supplement_3):e22-e22.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/olivierrlegault/publication/2020-12-01-severe-hypercalcemia-pelvic-brown-tumor" rel="permalink">Severe hypercalcemia and a pelvic brown tumor in an adolescent with primary hyperparathyroidism: a case report
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Legault, O., Inman, M., Moolman, N., Nour, M. A., et al. (2020). "Severe hypercalcemia and a pelvic brown tumor in an adolescent with primary hyperparathyroidism: a case report." <i>BMC Pediatrics</i>. 20(1).</p> 
+    </li>
+ </article>
+</div>
+
+  </ul>
+
 
 
         
@@ -471,7 +748,7 @@
 <!-- Section : Droits d’auteur -->
 <div class="page__footer-copyright">
   &copy; 2025 Olivier Legault, Propulsé par <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, une adaptation de <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Dernière mise à jour du site : 2025-07-25
+  Dernière mise à jour du site : 2025-07-28
 </div>
       </footer>
     </div>
