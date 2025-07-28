@@ -84,14 +84,98 @@
 }
 
 
-/* Nouvelle partie pour centrer les liens et ajouter le séparateur */
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
+.masthead {
+  position: fixed;
+  background: var(--masthead-bg-color);
+  height: fit-content;
+  top: 0;
+  width: 100%;
+
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    height: 1px;
+    background: var(--masthead-bg-color);
+    width: 100%;
+  }
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 0.5em 1em;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+
+.masthead__logo-img {
+  max-height: 3.5rem;
+  height: auto;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+  object-fit: contain;
+}
+
+
+@media screen and (max-width: 600px) {
+  .masthead__logo-img {
+    max-height: 35px;
+  }
+}
+.masthead__menu {
+  /* on enlève text-align: center car flex s'en charge */
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+}
+
 .visible-links {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.5em;
+  justify-content: center; /* centre horizontalement */
+  align-items: center;     /* centre verticalement */
+  gap: 1em;                /* espace entre les liens */
+  padding: 0;
+  margin: 0 auto;          /* centrer le ul lui-même si besoin */
+  max-width: 100%;         /* s’assurer que ça ne dépasse pas */
 }
-.visible-links .separator {
-  color: #999;
-  pointer-events: none;
+
+
+.masthead__menu-item {
+  background-color: var(--masthead-bg-color);
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
+  }
 }
+
+
