@@ -1,8 +1,8 @@
 ---
 title: "Congrès – Pédiatrie de 1re ligne 2025 : Impulsivité – diagnostic différentiel et approche clinique"
-collection: formations-congres
+collection: teaching
 type: "Congrès"
-permalink: /formations-congres/2025-fall-pediatrie-premiere-ligne
+permalink: /teaching/2025-fall-pediatrie-premiere-ligne
 venue: "Centre Mont-Royal, Montréal"
 date: 2025-11-27
 location: "Montréal, Québec, Canada"

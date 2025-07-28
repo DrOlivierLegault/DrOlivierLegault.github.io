@@ -184,24 +184,24 @@
   </div>
   {% endif %}
   
-  {% if cv.formations-congres.size > 0 %}
-  <!-- formations-congres -->
+  {% if cv.teaching.size > 0 %}
+  <!-- teaching -->
   <div class="cv-section">
-    <h2>formations-congres</h2>
+    <h2>teaching</h2>
     <ul class="cv-list">
-      {% for formations-congres in cv.formations-congres %}
+      {% for teaching in cv.teaching %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ formations-congres.course }}</div>
-          <div class="cv-item-date">{{ formations-congres.date | slice: 0, 4 }}</div>
+          <div class="cv-item-title">{{ teaching.course }}</div>
+          <div class="cv-item-date">{{ teaching.date | slice: 0, 4 }}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ formations-congres.institution }}</div>
-          {% if formations-congres.role %}
-          <div class="cv-item-detail">Role: {{ formations-congres.role }}</div>
+          <div class="cv-item-subtitle">{{ teaching.institution }}</div>
+          {% if teaching.role %}
+          <div class="cv-item-detail">Role: {{ teaching.role }}</div>
           {% endif %}
-          {% if formations-congres.description %}
-          <div class="cv-item-detail">{{ formations-congres.description }}</div>
+          {% if teaching.description %}
+          <div class="cv-item-detail">{{ teaching.description }}</div>
           {% endif %}
         </div>
       </li>

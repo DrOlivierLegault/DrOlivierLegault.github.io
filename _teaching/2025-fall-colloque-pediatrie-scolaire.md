@@ -1,8 +1,8 @@
 ---
 title: "Colloque – Pédiatrie scolaire : Pour une approche intégrée de la santé physique et mentale des enfants"
-collection: formations-congres
+collection: teaching
 type: "Congrès"
-permalink: /formations-congres/2025-fall-colloque-pediatrie-scolaire
+permalink: /teaching/2025-fall-colloque-pediatrie-scolaire/
 venue: "Centre de formation continue, Faculté de médecine et des sciences de la santé, Université de Sherbrooke"
 date: 2025-09-25
 location: "Sherbrooke, Québec, Canada"

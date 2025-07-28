@@ -37,7 +37,7 @@ Que ce soit dans le cadre de **présentations scientifiques**, de **formations c
 Je m’adresse autant aux professionnel·le·s de la santé qu’au grand public, dans une démarche de **vulgarisation et de sensibilisation aux enjeux du développement de l’enfant et de l’adolescent**.  
 Je suis également ouvert aux collaborations médiatiques ou interventions à titre d’expert sur des sujets liés au neurodéveloppement, à la santé publique et aux politiques sociales concernant l’enfance.
 
-> *Pour [consulter mes conférences prévues et passées](./formations-congress/)*
+> *Pour [consulter mes conférences prévues et passées](./teaching/)*
 
 ---
 

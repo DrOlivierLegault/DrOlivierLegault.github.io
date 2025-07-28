@@ -306,15 +306,15 @@ def parse_talks(talks_dir):
     
     return talks
 
-def parse_formations-congres(formations-congres_dir):
-    """Parse formations-congres from the _formations-congres directory."""
-    formations-congres = []
+def parse_teaching(teaching_dir):
+    """Parse teaching from the _teaching directory."""
+    teaching = []
     
-    if not os.path.exists(formations-congres_dir):
-        return formations-congres
+    if not os.path.exists(teaching_dir):
+        return teaching
     
-    for formations-congres_file in sorted(glob.glob(os.path.join(formations-congres_dir, "*.md"))):
-        with open(formations-congres_file, 'r', encoding='utf-8') as file:
+    for teaching_file in sorted(glob.glob(os.path.join(teaching_dir, "*.md"))):
+        with open(teaching_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Extract front matter
@@ -322,8 +322,8 @@ def parse_formations-congres(formations-congres_dir):
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
             
-            # Extract formations-congres details
-            formations-congres_entry = {
+            # Extract teaching details
+            teaching_entry = {
                 "course": front_matter.get('title', ''),
                 "institution": front_matter.get('venue', ''),
                 "date": front_matter.get('date', ''),
@@ -331,9 +331,9 @@ def parse_formations-congres(formations-congres_dir):
                 "description": front_matter.get('excerpt', '')
             }
             
-            formations-congres.append(formations-congres_entry)
+            teaching.append(teaching_entry)
     
-    return formations-congres
+    return teaching
 
 def parse_portfolio(portfolio_dir):
     """Parse portfolio items from the _portfolio directory."""
@@ -392,8 +392,8 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     # Add talks
     cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
     
-    # Add formations-congres
-    cv_json["formations-congres"] = parse_formations-congres(os.path.join(repo_root, "_formations-congres"))
+    # Add teaching
+    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))

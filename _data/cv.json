@@ -124,16 +124,16 @@
       "description": ""
     }
   ],
-  "formations-congres": [
+  "teaching": [
     {
-      "course": "formations-congres experience 1",
+      "course": "teaching experience 1",
       "institution": "University 1, Department",
       "date": "2014-01-01",
       "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "formations-congres experience 2",
+      "course": "teaching experience 2",
       "institution": "University 1, Department",
       "date": "2015-01-01",
       "role": "Workshop",
