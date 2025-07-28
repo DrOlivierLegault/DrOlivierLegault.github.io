@@ -1,10 +1,8 @@
 ---
 title: "Santé mentale en neurodéveloppement – Formation continue"
 collection: teaching
-type: "Formation continue"
-permalink: /teaching/2026-formation-echo-nd
+permalink: /teaching/2026-formation-echo-nd/
 venue: "ECHO<sup>md</sup> CHU Sainte-Justine"
-date: 2026-01-01
 location: "CHU Sainte-Justine, Montréal"
 ---
 
