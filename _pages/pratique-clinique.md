@@ -31,11 +31,17 @@ Si vous souhaitez prendre rendez-vous, veuillez consulter le [portail de prise d
 test
 
 ```mermaid
-%%{init: {"theme":"forest"}}%%
+%%{init: {"theme": "default", "themeVariables": {
+  "primaryColor": "#e6d9c4",
+  "edgeLabelBackground":"#ffffff",
+  "primaryTextColor":"#222222",
+  "lineColor":"#444444",
+  "fontSize": "14px"
+}}}%%
 graph TD
-    A[🩺 Évaluation globale] --> B[ Trajectoire développementale]
+    A[ Évaluation globale] --> B[ Trajectoire développementale]
     A --> C[ Examen physique/neurologique]
-    A --> D[🔍 Investigations médicales]
+    A --> D[ Investigations médicales]
     
     B --> E[ Diagnostic étiologique]
     C --> E
@@ -49,15 +55,17 @@ graph TD
     G1 --> H[ Accompagnement familial]
     G2 --> H
     G3 --> H
-    
-    style A fill:#e6f3ff,stroke:#0066cc
-    style B fill:#fff2e6,stroke:#ff9933
-    style C fill:#fff2e6,stroke:#ff9933
-    style D fill:#fff2e6,stroke:#ff9933
-    style E fill:#e6ffe6,stroke:#009900
-    style F fill:#ffebf3,stroke:#cc0066
-    style G1,G2,G3 fill:#f0e6ff,stroke:#9933ff
-    style H fill:#ffe6e6,stroke:#ff0000
+
+    style A fill:#94bfa3,stroke:#444444,color:#ffffff
+    style B fill:#e6d9c4,stroke:#444444,color:#222222
+    style C fill:#e6d9c4,stroke:#444444,color:#222222
+    style D fill:#e6d9c4,stroke:#444444,color:#222222
+    style E fill:#f0ede9,stroke:#444444,color:#222222
+    style F fill:#94bfa3,stroke:#444444,color:#ffffff
+    style G1 fill:#d0e4dc,stroke:#005f73,color:#005f73
+    style G2 fill:#d0e4dc,stroke:#005f73,color:#005f73
+    style G3 fill:#d0e4dc,stroke:#005f73,color:#005f73
+    style H fill:#e6d9c4,stroke:#444444,color:#222222
 ```
 
 La **pédiatrie du développement** est une spécialité médicale reconnue par le Collège des médecins du Québec et le Collège royal des médecins et chirurgiens du Canada. Elle se consacre à une population d’enfants et d’adolescents dont le développement dans les sphères cognitive, langagière, motrice, sensorielle et socioaffective est atypique ou compromis.

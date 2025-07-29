@@ -161,6 +161,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -335,6 +336,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-glossary_tooltip
 
 # Mimic GitHub Pages with --safe
 whitelist:

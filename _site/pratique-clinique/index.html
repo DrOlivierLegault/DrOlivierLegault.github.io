@@ -113,6 +113,8 @@
 
 <!-- end custom head snippets -->
 
+<link rel="stylesheet" href="/assets/css/jekyll-glossary_tooltip.css">
+    <link rel="stylesheet" href="/assets/css/jekyll-glossary_tooltip.css">
   </head>
 
   <body>
@@ -357,11 +359,17 @@ Dans ces centres, j’évalue et j’accompagne des enfants et adolescent·e·s 
 
 <p>test</p>
 
-<pre><code class="language-mermaid">%%{init: {"theme":"forest"}}%%
+<pre><code class="language-mermaid">%%{init: {"theme": "default", "themeVariables": {
+  "primaryColor": "#e6d9c4",
+  "edgeLabelBackground":"#ffffff",
+  "primaryTextColor":"#222222",
+  "lineColor":"#444444",
+  "fontSize": "14px"
+}}}%%
 graph TD
-    A[🩺 Évaluation globale] --&gt; B[ Trajectoire développementale]
+    A[ Évaluation globale] --&gt; B[ Trajectoire développementale]
     A --&gt; C[ Examen physique/neurologique]
-    A --&gt; D[🔍 Investigations médicales]
+    A --&gt; D[ Investigations médicales]
     
     B --&gt; E[ Diagnostic étiologique]
     C --&gt; E
@@ -375,15 +383,17 @@ graph TD
     G1 --&gt; H[ Accompagnement familial]
     G2 --&gt; H
     G3 --&gt; H
-    
-    style A fill:#e6f3ff,stroke:#0066cc
-    style B fill:#fff2e6,stroke:#ff9933
-    style C fill:#fff2e6,stroke:#ff9933
-    style D fill:#fff2e6,stroke:#ff9933
-    style E fill:#e6ffe6,stroke:#009900
-    style F fill:#ffebf3,stroke:#cc0066
-    style G1,G2,G3 fill:#f0e6ff,stroke:#9933ff
-    style H fill:#ffe6e6,stroke:#ff0000
+
+    style A fill:#94bfa3,stroke:#444444,color:#ffffff
+    style B fill:#e6d9c4,stroke:#444444,color:#222222
+    style C fill:#e6d9c4,stroke:#444444,color:#222222
+    style D fill:#e6d9c4,stroke:#444444,color:#222222
+    style E fill:#f0ede9,stroke:#444444,color:#222222
+    style F fill:#94bfa3,stroke:#444444,color:#ffffff
+    style G1 fill:#d0e4dc,stroke:#005f73,color:#005f73
+    style G2 fill:#d0e4dc,stroke:#005f73,color:#005f73
+    style G3 fill:#d0e4dc,stroke:#005f73,color:#005f73
+    style H fill:#e6d9c4,stroke:#444444,color:#222222
 </code></pre>
 
 <p>La <strong>pédiatrie du développement</strong> est une spécialité médicale reconnue par le Collège des médecins du Québec et le Collège royal des médecins et chirurgiens du Canada. Elle se consacre à une population d’enfants et d’adolescents dont le développement dans les sphères cognitive, langagière, motrice, sensorielle et socioaffective est atypique ou compromis.</p>
@@ -492,7 +502,7 @@ graph TD
 <!-- Section : Droits d’auteur -->
 <div class="page__footer-copyright">
   &copy; 2025 Olivier Legault, Propulsé par <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, une adaptation de <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Dernière mise à jour du site : 2025-07-28
+  Dernière mise à jour du site : 2025-07-29
 </div>
       </footer>
     </div>
@@ -508,4 +518,5 @@ graph TD
 
   </body>
 </html>
+
 

@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Soutenir le développement de chaque enfant et adolescent, et leur famille"
+title: "Bienvenue sur mon site professionnel — informations cliniques, profils et ressources"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/jekyll-glossary_tooltip.css' | relative_url }}">
 ## Ma mission
 
-Je suis Olivier Legault, **pédiatre du développement** au CHU Sainte-Justine et au Centre de réadaptation Marie Enfant.  
+Je suis Olivier Legault, **pédiatre du développement** {% glossary pédiatre du développement %} au CHU Sainte-Justine et au Centre de réadaptation Marie Enfant.  
 Au quotidien, j’accompagne une équipe interdisciplinaire pour soutenir les familles dont les enfants vivent des différences dans leur trajectoire de développement ou présentent des comportements affectant leur quotidien.
 
 J’évalue et accompagne des enfants et adolescent·e·s vivant avec diverses conditions neurodéveloppementales — autisme, déficience intellectuelle, TDAH, paralysie cérébrale, troubles d’apprentissage.  
