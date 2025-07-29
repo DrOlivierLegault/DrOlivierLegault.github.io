@@ -6,27 +6,43 @@ author_profile: true
 ---
 
 {% include toc %}
-
 {% include base_path %}
 
+---
 
 ## Pratique clinique
 
-Je travaille comme **pédiatre du développement** au CHU Sainte-Justine ainsi qu’au Centre de réadaptation Marie Enfant.  
+Je travaille comme **pédiatre du développement** au CHU Sainte-Justine ainsi qu’au Centre de réadaptation Marie Enfant.
+
 Dans ces centres, j’évalue et j’accompagne des enfants et adolescent·e·s présentant diverses conditions neurodéveloppementales, notamment :  
 - Autisme  
 - Déficience intellectuelle  
 - Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)  
-- Paralysie cérébrale  
-- Troubles d’apprentissage  
+- Paralysie cérébrale
+- Troubles d’apprentissage
+
+- Autre conditions neurodevleopmentales (- Touble déveloipemntal de la coordination. tsouble du sundore d'alcoolisation fotale).
+
+Je trravailler a accompagner les familes ouet ceux avec ocmportements dérangeat,s en plus de considérer diverser conditions pouvant cotrinuer à exarber certaines comportemetns tel que les difficultés et tourble de sommiels, les dificultés d'alimentation, etx.
+
+Au CRME, je participe aux acitivés de garde clinique des enganrs hoisitalie à l"unité de réadaptation intensive et à l'hébergement, en plus de participer aux clinique des maladies neuromusculiares.
 
 Ma clientèle inclut des enfants et adolescents ayant des parcours variés, souvent marqués par des différences neurodéveloppementales ou des besoins spécifiques.
 
-Si vous souhaitez prendre rendez-vous, veuillez consulter le [portail de prise de rendez-vous du CHU Sainte-Justine](https://www.chusj.org/Patients-et-visiteurs/Prendre-un-rendez-vous).
+<div style="background-color: #fff3cd; border-left: 6px solid #856404; padding: 1em 1.2em; margin: 1.5em 0; color: #856404;">
+  <strong>⚠️ Avis important :</strong><br>
+  Ce site a pour objectif de fournir des informations générales sur ma pratique clinique et sur le développement des enfants.  
+  <br><br>
+  Aucune demande de consultation médicale ne peut être traitée via ce site. Pour obtenir un rendez-vous, veuillez suivre les démarches officielles du CHU Sainte-Justine :  
+  👉 <a href="https://www.chusj.org/fr/soins-services/N/CIRENE/PublicCible/Medecins-et-professionnels/Referencement" target="_blank">Faire une demande de consultation</a>  
+  <br><br>
+  Les renseignements médicaux partagés ici sont à visée informative seulement et ne remplacent en aucun cas une évaluation clinique personnalisée. En cas de question médicale concernant votre enfant, veuillez consulter un professionnel de la santé.
+</div>
+
 
 ---
 
-### Le rôle du pédiatre du développement
+## Le rôle du pédiatre du développement
 
 test
 
@@ -74,7 +90,7 @@ Le pédiatre du développement travaille au sein d’équipes d’évaluation in
 
 ---
 
-### Contribution spécifique du pédiatre du développement
+## Contribution spécifique du pédiatre du développement
 
 - Reconstituer la trajectoire développementale d’un·e enfant, de la période intra-utérine à aujourd’hui, en tenant compte de tous les facteurs personnels, familiaux et environnementaux.  
 - Évaluer l’influence des antécédents médicaux sur le tableau clinique.  
@@ -87,7 +103,7 @@ Le pédiatre du développement travaille au sein d’équipes d’évaluation in
 
 ---
 
-### Contribution commune au sein de l’équipe interdisciplinaire
+## Contribution commune au sein de l’équipe interdisciplinaire
 
 - Établir le profil développemental de l’enfant.  
 - Poser un diagnostic de trouble neurodéveloppemental (TND).  
@@ -101,4 +117,3 @@ Le pédiatre du développement travaille au sein d’équipes d’évaluation in
 
 ---
 
-*Cette page est destinée aux parents, médecins référents et collègues souhaitant en savoir plus sur ma pratique clinique.*
