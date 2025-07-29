@@ -38,13 +38,42 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+
+{% if page.collection == 'engagement-public' %}
+  <!-- Liste des lettres ouvertes de la collection "engagement-public" -->
+  <ul class="lettres-list">
+    {% assign lettres = site.engagement-public | sort: "date" | reverse %}
+    {% for lettre in lettres %}
+      <li class="lettre-item">
+        <a href="{{ lettre.url | relative_url }}">{{ lettre.title }}</a>
+        <div class="lettre-meta">
+          <span class="date">{{ lettre.date | date: "%-d %B %Y" }}</span>
+          {% if lettre.source %}
+            <span class="source"> – Publié dans {{ lettre.source }}</span>
+          {% endif %}
+        </div>
+        {% if lettre.excerpt %}
+          <p class="lettre-excerpt">{{ lettre.excerpt | markdownify | strip_html }}</p>
         {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
+{% if post.collection == 'teaching' %}
+  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.collection == 'publications' %}
+  <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.date %}
+  <p class="page__date">
+    <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
+    <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
+      {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+    </time>
+  </p>
+{% endif %}
+        
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

@@ -11,18 +11,19 @@ redirect_from:
 
 À propos
 ======
-Médecin spécialisé en **pédiatrie du développement**, avec une formation complémentaire en **santé publique** et **recherche clinique**. Je m’intéresse au neurodéveloppement de l’enfant, aux trajectoires familiales, aux déterminants sociaux de la santé, ainsi qu’à la défense des droits et intérêts des enfants ayant des besoins particuliers.  
+Médecin spécialisé en **pédiatrie du développement**, avec une formation complémentaire en **santé publique**.  
+Je m’intéresse au neurodéveloppement de l’enfant, aux trajectoires familiales, aux déterminants sociaux de la santé, ainsi qu’à la défense des droits et intérêts des enfants ayant des besoins particuliers.  
 Ma pratique clinique et mes collaborations en recherche visent à mieux comprendre les facteurs socioéconomiques, culturels et sociaux qui influencent le développement de l’enfant.
 
 ---
 
 Formation
 ======
-* **Maîtrise en santé publique (recherche)** – Université de Montréal *(2023–2025, en cours)*  
-* **Doctorat en médecine (MD)** – Université de Montréal  
+* **Maîtrise en santé publique – recherche (M.Sc.)** – École de santé publique, Université de Montréal *(2023–2025, en cours)*  
+* **Fellowship en pédiatrie du développement** – Université de Montréal *(2021–2023)*  
+* **Tronc commun en pédiatrie générale** – University of Saskatchewan *(2018–2021)*  
 * **Fellow du Collège royal en pédiatrie (FRCPC)** – Université de Montréal  
-* **Fellowship en pédiatrie du développement** – Université de Montréal  
-* **Études postdoctorales en pédiatrie** – University of Saskatchewan  
+* **Doctorat en médecine (MD)** – Université de Montréal   
 
 ---
 
@@ -32,10 +33,10 @@ Expérience professionnelle
   * Université de Montréal *(depuis juin 2025)*
 
 * **Pédiatre du développement**  
-  * CHU Sainte-Justine *(depuis mai 2024)*
+  * CHU Sainte-Justine et Centre de réadaptation Marie-Enfant *(depuis mai 2024)*
 
 * **Chargé de cours**  
-  * Université du Québec en Outaouais *(depuis sept. 2024)*  
+  * Université du Québec en Outaouais *(sept. 2024)*  
   * Cours sur la paralysie cérébrale, les comorbidités et la prise en charge fonctionnelle.
 
 * **Pédiatre**  
@@ -46,24 +47,17 @@ Expérience professionnelle
 Intérêts de recherche
 ======
 * Développement de l’enfant et trajectoires familiales  
-* Déterminants sociaux de la santé  
-* Troubles du développement et comorbidités  
-* Santé mentale pédiatrique et prévention du suicide  
-* Politiques publiques et équité en santé  
+* Déterminants sociaux de la santé et leur influence sur le neurodéveloppement
+* Troubles du neurodéveloppement et comorbidités  
+* Santé mentale pédiatrique 
+* Politiques en santé publique  
 
 ---
-
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Formations et congrès
@@ -72,12 +66,8 @@ Formations et congrès
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
 Lettres d'intérêts
 ======
-  <ul>{% for post in site.lettres_ouvertes reversed %}
+  <ul>{% for post in site.engagement-public reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

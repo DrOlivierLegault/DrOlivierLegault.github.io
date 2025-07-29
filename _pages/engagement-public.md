@@ -1,14 +1,10 @@
 ---
-layout: single
+layout: archive
 title: "Défense d'intérêts"
 permalink: /engagement-public/
 author_profile: true
 ---
-
-<section class="engagement-public">
-  <p class="intro">
-    Cette section rassemble des lettres ouvertes d’intérêt public, sélectionnées et repostées depuis divers médias québécois ou canadiens. Les sources originales sont toujours citées.
-  </p>
+Cette section rassemble des lettres d'opinions que j'ai publié à travers divers médias québécois. Les sources originales sont citées.
 
   <ul class="lettres-list">
     {% assign lettres = site.engagement-public | sort: "date" | reverse %}
@@ -24,4 +20,4 @@ author_profile: true
       </li>
     {% endfor %}
   </ul>
-</section>
+

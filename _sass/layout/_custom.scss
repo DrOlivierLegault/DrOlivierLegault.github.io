@@ -54,3 +54,31 @@
   font-size: 0.95em;
   color: #555;
 }
+
+.archive__item {
+  border-bottom: 1px solid #e6d9c4; /* beige clair, plus doux que le gris foncé */
+  padding-bottom: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.lettres-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 2em;
+}
+
+.lettre-item {
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
+.lettre-meta {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.lettre-excerpt {
+  margin-top: 0.5em;
+  color: #444;
+}
