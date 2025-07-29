@@ -7,6 +7,34 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .btn {
+    display: inline-block;
+    padding: 0.75em 1.5em;
+    border-radius: 6px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    font-family: inherit;
+  }
+  .btn-primary {
+    background-color: #005f73;
+    color: #fff;
+  }
+  .btn-primary:hover {
+    background-color: #003d4a;
+    color: #fff;
+  }
+  .btn-secondary {
+    background-color: #94bfa3;
+    color: #00332b;
+  }
+  .btn-secondary:hover {
+    background-color: #78967d;
+    color: #fff;
+  }
+</style>
+
 ## Présentation
 
 Bienvenue sur mon site professionnel. Je suis Olivier Legault, **pédiatre du développement** au CHU Sainte-Justine et au Centre de réadaptation Marie-Enfant.
@@ -23,7 +51,7 @@ Par mon travail, j'accompagne les enfants, adolescents et leurs proches présent
 
 À travers cela, et avec le soutien de mes collègues, par une approche interdisciplinaire, j’évalue et accompagne des enfants et adolescent·e·s vivant avec diverses conditions neurodéveloppementales, telles que l’autisme, la déficience intellectuelle, le TDAH, la paralysie cérébrale et les troubles d’apprentissage.
 
-<a href="pratique-clinique" class="btn" style="background-color: #005f73; color: white; padding: 0.8em 1.2em; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background-color 0.3s;">
+<a href="pratique-clinique" class="btn btn-primary">
   En savoir plus sur ma pratique clinique
 </a>
 
@@ -34,7 +62,7 @@ Par mon travail, j'accompagne les enfants, adolescents et leurs proches présent
 En parallèle de ma pratique clinique, je m’engage activement pour la **défense des droits et intérêts des enfants et adolescents** à besoins particuliers.  
 J’ai publié [plusieurs lettres ouvertes](./lettres_ouvertes/) dans des médias tels que *La Presse* et *Le Journal de Montréal* pour porter leur voix, surtout lorsqu’elle peine à être entendue.
 
-<a href="engagement-public" class="btn" style="background-color: #94bfa3; color: #00332b; padding: 0.8em 1.2em; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background-color 0.3s;">
+<a href="engagement-public" class="btn btn-secondary">
   Lire les lettres ouvertes
 </a>
 
@@ -47,7 +75,7 @@ Ce travail se poursuit par des projets de recherche visant à mieux comprendre l
 Que ce soit dans le cadre de **présentations scientifiques**, de **formations cliniques** ou de **conférences publiques**, la transmission des connaissances demeure une passion.  
 Je m’efforce, à travers ce site, de partager des informations sur le neurodéveloppement, destinées à mieux comprendre ce domaine, tant pour les professionnel·le·s que pour le grand public.
 
-<a href="teaching" class="btn" style="background-color: #005f73; color: white; padding: 0.8em 1.2em; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background-color 0.3s;">
+<a href="teaching" class="btn btn-primary">
   Découvrez mes conférences à venir
 </a>
 
@@ -79,13 +107,6 @@ Je suis également ouvert aux collaborations médiatiques ou interventions à ti
 - Impact des environnements précoces (tabagisme, pauvreté, stress parental)  
 - Défense des enfants vulnérables ou à besoins particuliers
 
-<a href="cv" class="btn" style="background-color: #005f73; color: white; padding: 0.8em 1.2em; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background-color 0.3s;">
+<a href="cv" class="btn btn-primary">
   Consulter mon CV complet
 </a>
-
-<style>
-  a.btn:hover {
-    background-color: #003d4a !important;
-    color: white !important;
-  }
-</style>
