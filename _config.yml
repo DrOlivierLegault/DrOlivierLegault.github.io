@@ -313,11 +313,7 @@ defaults:
     values:
       layout: archive
       author_profile: true
-  - scope:
-      path: ""
-    values:
-      css:
-        - "/assets/css/jekyll-glossary_tooltip.css"
+
 
 
 # Sass/SCSS
