@@ -170,11 +170,6 @@
               <a href="http://localhost:4000/olivierrlegault/cv/">CV</a>
             </li>
           
-            
-            <li class="masthead__menu-item">
-              <a href="http://localhost:4000/olivierrlegault/markdown/">Guide</a>
-            </li>
-          
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon">
               <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
@@ -335,231 +330,212 @@
 <h2 id="projets-en-cours-et-à-venir">Projets en cours et à venir</h2>
 
 <section id="projets" class="projets-section">
-  
+  <div class="container">
     
-    
+      
+      
 
-    
-      <h2 class="projets-category-title">Projets en cours</h2>
-      <div class="projets-grid">
-        
-          <article class="projet-card en-cours">
-            <div class="projet-card-content">
-              <div class="projet-header">
-                <h3 class="projet-title">
-                  <a href="/olivierrlegault/recherche/projets/projets-1/">Titre du projet</a>
-                </h3>
-                <span class="projet-status">en cours</span>
-              </div>
-              
-                <p class="projet-excerpt"><h2 id="contenu-détaillé-du-projet-ici">Contenu détaillé du projet ici.</h2>
-
-</p>
-              
-              <a href="/olivierrlegault/recherche/projets/projets-1/" class="projet-link">Voir plus</a>
-            </div>
-          </article>
-        
-      </div>
-    
-
-    
-      <h2 class="projets-category-title">Projets à venir</h2>
-      <div class="projets-grid">
-        
-          <article class="projet-card a-venir">
-            <div class="projet-card-content">
-              <div class="projet-header">
-                <h3 class="projet-title">
-                  <a href="/olivierrlegault/recherche/projets/projets-2/">Titre du projet -2</a>
-                </h3>
-                <span class="projet-status">à venir</span>
-              </div>
-              
-                <p class="projet-excerpt"><h2 id="contenu-détaillé-du-projet-ici">Contenu détaillé du projet ici.</h2>
+      
+        <h2 class="projets-category-title">Projets en cours</h2>
+        <div class="projets-grid">
+          
+            <article class="projet-card en-cours">
+              <div class="projet-card-content">
+                <div class="projet-header">
+                  <h3 class="projet-title">
+                    <a href="/olivierrlegault/recherche/projets/projets-1/">Lien entre tabac et santé mentale</a>
+                  </h3>
+                  <span class="projet-status">en cours</span>
+                </div>
+                
+                  <p class="projet-excerpt"><p>Évaluation du lien entre l’exposition au tabac maternel et les diagnostics de santé mentale, mesurés par l’utilisation de services médicaux.
+Les résultats de ce projet, qui seront publiés prochainement, indiquent que les enfants exposés à une quantité élevée et soutenue de tabac maternel — de la période prénatale jusqu’à l’adolescence (13 ans) — présentent un risque jusqu’à deux fois plus élevé de troubles anxieux, de dépression et de psychose.</p>
 
 </p>
-              
-              <a href="/olivierrlegault/recherche/projets/projets-2/" class="projet-link">Voir plus</a>
-            </div>
-          </article>
-        
-      </div>
-    
+                
+                <a href="/olivierrlegault/recherche/projets/projets-1/" class="projet-link">Voir plus</a>
+              </div>
+            </article>
+          
+        </div>
+      
 
-  
+      
+        <h2 class="projets-category-title">Projets à venir</h2>
+        <div class="projets-grid">
+          
+            <article class="projet-card a-venir">
+              <div class="projet-card-content">
+                <div class="projet-header">
+                  <h3 class="projet-title">
+                    <a href="/olivierrlegault/recherche/projets/projets-2/">Trouble alcoolisation foeatale</a>
+                  </h3>
+                  <span class="projet-status">à venir</span>
+                </div>
+                
+                  <p class="projet-excerpt"><h2 id="détails">Détails.</h2>
+<p>Ce projet vise à recenser la prévalence du diagnostic du trouble de l’alcoolisation fœtale. Il pourra nous guider sur les pratiques cliniques et les différences interprovinciales.</p>
+
+</p>
+                
+                <a href="/olivierrlegault/recherche/projets/projets-2/" class="projet-link">Voir plus</a>
+              </div>
+            </article>
+          
+        </div>
+      
+    
+  </div>
 </section>
 
 <style>
-/* Base Styles */
+/* Base Section Styles */
 .projets-section {
-  padding: 2rem 0;
+  padding: 4rem 1rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  max-width: 1200px;
-  margin: 0 auto;
+  background-color: #f9f9f9;
 }
 
+/* Container fix for layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Section Title */
+.projets-category-title {
+  font-size: 1.75rem;
+  margin: 2rem 0 1rem;
+  color: #222;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+/* No projets message */
 .no-projets {
   text-align: center;
   color: #666;
   font-style: italic;
+  padding: 2rem 0;
 }
 
-/* Card Grid Layout */
+/* Grid Layout */
 .projets-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, max-content));
+  justify-content: center; /* ✅ Center items horizontally */
   gap: 2rem;
-  padding: 0 1rem;
+  margin: 0 auto 3rem auto;
 }
 
+/* Card Base */
 .projet-card {
-  background: white;
+  background: #ffffff;
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   overflow: hidden;
-  border: 1px solid #eaeaea;
+  border: 1px solid #ccc;
   position: relative;
-}
-
-/* Status Indicators */
-.projet-card.en-cours {
-  border-left: 5px solid #3498db;
-}
-
-.projet-card.a-venir {
-  border-left: 5px solid #95a5a6;
-}
-
-.projet-card.en-cours::before,
-.projet-card.a-venir::before {
-  content: attr(data-status);
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: #3498db;
-  color: white;
-  font-size: 0.7rem;
-  font-weight: bold;
-  padding: 0.2rem 0.5rem;
-  text-transform: uppercase;
-  border-bottom-right-radius: 6px;
-}
-
-.projet-card.a-venir::before {
-  background-color: #7f8c8d;
-}
-
-.projet-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
-}
-
-.projet-card-content {
-  padding: 1.5rem;
-  height: 100%;
   display: flex;
   flex-direction: column;
+  padding: 1.5rem;
 }
 
+/* Status Colors */
+.projet-card.en-cours {
+  border-left: 5px solid #005f73;
+}
+.projet-card.a-venir {
+  border-left: 5px solid #94bfa3;
+}
+
+/* Header inside card */
 .projet-header {
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  align-items: flex-start;
-  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
 }
 
-/* Project Title */
+/* Title styling */
 .projet-title {
   margin: 0;
   font-size: 1.25rem;
   font-weight: 600;
-  color: #2c3e50;
-  flex-grow: 1;
+  color: #333;
 }
-
 .projet-title a {
   color: inherit;
   text-decoration: none;
-  transition: color 0.2s ease;
 }
-
 .projet-title a:hover {
-  color: #3498db;
+  color: #005f73;
 }
 
-/* Project Status */
+/* Status badge */
 .projet-status {
-  display: inline-block;
+  background-color: #eee;
   font-size: 0.75rem;
-  padding: 0.25rem 0.5rem;
+  padding: 0.25rem 0.6rem;
   border-radius: 12px;
-  margin-left: 0.5rem;
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 0.5px;
+  margin-top: 0.5rem;
 }
 
-/* Project Excerpt */
+/* Excerpt paragraph */
 .projet-excerpt {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   color: #555;
   font-size: 0.95rem;
   line-height: 1.5;
-  margin: 0 0 1.5rem 0;
   flex-grow: 1;
 }
 
-/* See More Link */
+/* See more link */
 .projet-link {
+  margin-top: auto;
   display: inline-block;
-  color: #3498db;
+  color: #005f73;
+  font-weight: 500;
   text-decoration: none;
   font-size: 0.9rem;
-  font-weight: 500;
-  transition: color 0.2s ease;
-  align-self: flex-start;
 }
-
 .projet-link:hover {
-  color: #2980b9;
+  color: #003d4d;
   text-decoration: underline;
 }
-
 .projet-link::after {
-  content: "→";
+  content: " →";
   margin-left: 0.3rem;
   transition: margin-left 0.2s ease;
 }
-
 .projet-link:hover::after {
   margin-left: 0.5rem;
 }
 
-/* Responsive Adjustments */
+/* Responsive behavior */
 @media (max-width: 768px) {
   .projets-grid {
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
-  
-  .projet-card {
-    margin: 0 1rem;
-  }
-}
 
-@media (max-width: 480px) {
   .projet-card {
-    margin: 0;
+    padding: 1rem;
   }
-  
+
   .projet-header {
     flex-direction: column;
+    align-items: flex-start;
   }
-  
+
   .projet-status {
-    margin-left: 0;
-    margin-top: 0.3rem;
+    margin-top: 0.5rem;
   }
 }
 </style>
@@ -844,7 +820,7 @@
 <!-- Section : Droits d’auteur -->
 <div class="page__footer-copyright">
   &copy; 2025 Olivier Legault, Propulsé par <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, une adaptation de <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Dernière mise à jour du site : 2025-07-29
+  Dernière mise à jour du site : 2025-07-30
 </div>
 
 
