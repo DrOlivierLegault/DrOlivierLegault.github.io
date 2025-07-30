@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /olivierrlegault/sitemap/
+permalink: /sitemap/
 author_profile: true
 ---
 
