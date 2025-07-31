@@ -264,17 +264,3 @@
   }
 }
 
-.author__logo {
-  max-width: 200px;
-  height: auto;
-  display: inline-block;
-  vertical-align: left;
-  object-fit: contain;
-  margin-bottom: 2rem;
-}
-
-@media screen and (max-width: 600px) {
-  .author__logo {
-    max-height: 35px;
-  }
-}

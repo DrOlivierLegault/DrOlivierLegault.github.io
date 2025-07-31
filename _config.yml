@@ -23,10 +23,9 @@ repository               : "olivierrlegault/olivierrlegault.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  logo             : "/images/logo.svg" # URL to a logo image, if you want to use a logo instead of an avata
-  name             : 
-  pronouns         : 
-  bio              : 
+  name             : "Dr Olivier Legault"
+  pronouns         : "il/lui"
+  bio              : "Pédiatre du développement, chercheur et professeur adjoint de clinique"
   location         : "Montréal"
   employer         : "CHU Sainte-Justine et<br>Université de Montréal"
   uri              : # URL
