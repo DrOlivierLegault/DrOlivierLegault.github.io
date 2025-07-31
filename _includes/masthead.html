@@ -6,7 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
 
-        <ul class="visible-links">
+        <ul class="visible-links hide-on-mobile">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
