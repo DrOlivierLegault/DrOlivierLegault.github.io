@@ -7,6 +7,7 @@ Olivier Legault:
   bio         : "Pédiatre du développement et chercheur."
   avatar      : "bio-photo-2.jpg"
   twitter     : "legaulto"
+  logo        : "logo.svg" # URL to a logo image, if you want to use a logo instead of an avatar
   # google_plus : "Name"
 
 # Name2 Name2:
