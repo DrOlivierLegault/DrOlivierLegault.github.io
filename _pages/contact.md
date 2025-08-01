@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 sitemap: true
-permalink: /contact
+permalink: /contact/
 layout: single
 ---
 ## Pour me contacter
