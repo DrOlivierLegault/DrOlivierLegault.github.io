@@ -347,15 +347,15 @@
   <button type="submit">Envoyer</button>
 </form>
 
-<!-- reCAPTCHA v3 script -->
-<script src="https://www.google.com/recaptcha/api.js?render=6LeNYZcrAAAAAECLAnSL7eF55pK1TlcdIhftZ82c"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeNYZcrAAAAALdcd351JiVg7vwZC0KFi35fweAA"></script>
 
 <script>
-  grecaptcha.ready(function () {
-    grecaptcha.execute('6LeNYZcrAAAAAECLAnSL7eF55pK1TlcdIhftZ82c', { action: 'contact' })
-      .then(function (token) {
+  window.addEventListener('load', function () {
+    grecaptcha.ready(function () {
+      grecaptcha.execute('6LeNYZcrAAAAALdcd351JiVg7vwZC0KFi35fweAA', { action: 'contact' }).then(function (token) {
         document.getElementById('g-recaptcha-response').value = token;
       });
+    });
   });
 </script>
 
