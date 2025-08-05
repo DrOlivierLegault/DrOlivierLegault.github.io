@@ -131,6 +131,8 @@ fr: &DEFAULT_FR
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
+  tags_label                 : "Sujet:"
+
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
