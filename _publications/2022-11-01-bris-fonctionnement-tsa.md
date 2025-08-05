@@ -8,7 +8,7 @@ excerpt: "Cet article propose une approche pratique et structurée pour l’éva
 date: 2022-11-01
 venue: 'Le Médecin du Québec'
 paperurl: 'https://lemedecinduquebec.org/archives/2022/11/formation-continue/3-bris-de-fonctionnement-et-tsa-une-approche-sans-tracas/'
-bibtexurl: 'http://olivierrlegault.github.io/files/bris-tsa.bib'
+bibtexurl: 'http://drolivierlegault.github.io/files/bris-tsa.bib'
 citation: 'Jaworski, M. & Legault, O. (2022). "Bris de fonctionnement et TSA – une approche sans tracas." <i>Le Médecin du Québec</i>, 57(11).'
 
 ---

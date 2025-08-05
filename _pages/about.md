@@ -33,6 +33,20 @@ redirect_from:
     background-color: #78967d;
     color: #fff;
   }
+
+  .btn-full {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin: 1em auto;
+  text-align: center;
+  }
+
+  @media (max-width: 500px) {
+  .btn-full {
+    max-width: 90%;
+  }
+}
 </style>
 
 ## Présentation
@@ -51,7 +65,7 @@ Par mon travail, j'accompagne les enfants, adolescents et leurs proches présent
 
 À travers cela, et avec le soutien de mes collègues, par une approche interdisciplinaire, j’évalue et accompagne des enfants et adolescent·e·s vivant avec diverses conditions neurodéveloppementales, telles que l’autisme, la déficience intellectuelle, le TDAH, la paralysie cérébrale et les troubles d’apprentissage.
 
-<a href="pratique-clinique" class="btn btn-primary">
+<a href="pratique-clinique" class="btn btn-primary btn-full">
   En savoir plus sur ma pratique clinique
 </a>
 
@@ -62,7 +76,7 @@ Par mon travail, j'accompagne les enfants, adolescents et leurs proches présent
 En parallèle de ma pratique clinique, je m’engage activement pour la **défense des droits et intérêts des enfants et adolescents** à besoins particuliers.  
 J’ai publié [plusieurs lettres ouvertes](./lettres_ouvertes/) dans des médias tels que *La Presse* et *Le Journal de Montréal* pour porter leur voix, surtout lorsqu’elle peine à être entendue.
 
-<a href="engagement-public" class="btn btn-secondary">
+<a href="engagement-public" class="btn btn-secondary btn-full">
   Lire les lettres ouvertes
 </a>
 
@@ -75,7 +89,7 @@ Ce travail se poursuit par des projets de recherche visant à mieux comprendre l
 Que ce soit dans le cadre de **présentations scientifiques**, de **formations cliniques** ou de **conférences publiques**, la transmission des connaissances demeure une passion.  
 Je m’efforce, à travers ce site, de partager des informations sur le neurodéveloppement, destinées à mieux comprendre ce domaine, tant pour les professionnel·le·s que pour le grand public.
 
-<a href="teaching" class="btn btn-primary">
+<a href="teaching" class="btn btn-primary btn-full">
   Découvrez mes conférences à venir
 </a>
 
@@ -107,6 +121,6 @@ Je suis également ouvert aux collaborations médiatiques ou interventions à ti
 - Impact des environnements précoces (tabagisme, pauvreté, stress parental)  
 - Défense des enfants vulnérables ou à besoins particuliers
 
-<a href="cv" class="btn btn-primary">
+<a href="cv" class="btn btn-primary btn-full">
   Consulter mon CV complet
 </a>
