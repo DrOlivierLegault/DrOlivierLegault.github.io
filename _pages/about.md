@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Bienvenue sur mon site professionnel — informations cliniques, profils et ressources"
-og_image: tsaf.png  # <-- chemin relatif à la racine du site
+og_image: og_image.png  # <-- chemin relatif à la racine du site
 author_profile: true
 redirect_from: 
   - /about/
