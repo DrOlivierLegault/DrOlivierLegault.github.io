@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Bienvenue sur mon site professionnel — informations cliniques, profils et ressources"
+header:
+image: logo.png
 author_profile: true
 redirect_from: 
   - /about/
