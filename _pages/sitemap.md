@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 Voici la liste de toutes les pages et publications disponibles sur le site.
-Pour les robots d’indexation, une version XML est également disponible.
 
 <h2>Pages</h2>
 {% for post in site.pages %}

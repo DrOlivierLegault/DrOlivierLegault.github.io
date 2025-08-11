@@ -12,7 +12,7 @@ Cette section rassemble des lettres d'opinions que j'ai publié à travers diver
       <li class="lettre-item">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <div class="lettre-meta">
-          <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+          <span class="date">{% include date-fr.html date=post.date %}</span>
           {% if post.source %}
             <span class="source"> – Publié dans {{ post.source }}</span>
           {% endif %}
@@ -20,4 +20,5 @@ Cette section rassemble des lettres d'opinions que j'ai publié à travers diver
       </li>
     {% endfor %}
   </ul>
+
 

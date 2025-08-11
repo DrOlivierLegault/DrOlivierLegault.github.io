@@ -51,7 +51,10 @@ redirect_from:
 }
 </style>
 
-## Présentation test 11 aout
+## Présentation
+
+
+Date test : {% include date-fr.html date="2025-07-29" %}
 
 Bienvenue sur mon site professionnel. Je suis Olivier Legault, **pédiatre du développement** au CHU Sainte-Justine et au Centre de réadaptation Marie-Enfant.
 

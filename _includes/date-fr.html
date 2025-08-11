@@ -1,0 +1,4 @@
+{% comment %} Formatage de date en français {% endcomment %}
+{% assign mois_fr = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," %}
+{% assign mois_index = include.date | date: "%-m" | minus: 1 %}
+{{ include.date | date: "%-d" }} {{ mois_fr[mois_index] }} {{ include.date | date: "%Y" }}
