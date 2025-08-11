@@ -15,9 +15,9 @@ author_profile: true
 {% include projets.html %}
 
 
-## Collaborateurs et collaboratrices<br>des projets
+<!-- ## Collaborateurs et collaboratrices<br>des projets
 
-{% include lab_members.html %}
+{% include lab_members.html %} -->
 
 ## Publications
 
