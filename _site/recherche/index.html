@@ -515,9 +515,8 @@ Les résultats de ce projet, qui seront publiés prochainement, indiquent que le
   color: #005f73;
 }
 
-/* Status badge */
+/* Status badge base */
 .projet-status {
-  background-color: #eee;
   font-size: 0.75rem;
   padding: 0.25rem 0.6rem;
   border-radius: 12px;
@@ -525,6 +524,17 @@ Les résultats de ce projet, qui seront publiés prochainement, indiquent que le
   font-weight: 600;
   letter-spacing: 0.5px;
   margin-top: 0.5rem;
+  display: inline-block;
+  color: white; /* texte blanc par défaut */
+}
+
+/* Couleurs spécifiques par statut */
+.projet-card.en-cours .projet-status {
+  background-color: #005f73; /* bleu foncé par exemple */
+}
+
+.projet-card.a-venir .projet-status {
+  background-color: #94bfa3; /* vert clair par exemple */
 }
 
 /* Excerpt paragraph */
@@ -692,7 +702,10 @@ Les résultats de ce projet, qui seront publiés prochainement, indiquent que le
   
 </div>
 
-<h1 id="publications">Publications</h1>
+<h2 id="publications">Publications</h2>
+
+<p>Pour la liste de mes publications : <a href="/publications">Voir les publications</a></p>
+
 <ul>
     
 

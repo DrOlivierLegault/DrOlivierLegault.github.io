@@ -19,8 +19,10 @@ author_profile: true
 
 {% include lab_members.html %}
 
-Publications
-======
+## Publications
+
+Pour la liste de mes publications : [Voir les publications](/publications)
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
