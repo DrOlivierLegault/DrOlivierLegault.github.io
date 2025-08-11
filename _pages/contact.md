@@ -5,8 +5,6 @@ permalink: /contact/
 layout: single
 ---
 
-## Pour me contacter
-
 <form
   action="https://www.formbackend.com/f/8a91098937d89f7f"
   method="POST"
