@@ -14,7 +14,7 @@ main:
   - title: "Ressources<br>cliniques"
     url: /ressources-cliniques/
     
-  - title: "Pratique professionnelle"
+  - title: "Pratique<br>professionnelle"
     url: /pratique-professionnelle/
 
   - title: "Recherche"
@@ -23,7 +23,7 @@ main:
   - title: "Formations &<br>congrès"
     url: /teaching/
 
-  - title: "Défense d'intérêts"
+  - title: "Défense<br>d'intérêts"
     url: /engagement-public/
 
   - title: "Publications"
