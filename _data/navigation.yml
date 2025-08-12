@@ -12,7 +12,7 @@ main:
     url: /
 
   - title: "Articles &<br>ressources"
-    url: /year-archive/
+    url: /ressources-cliniques/
     
   - title: "Pratique clinique"
     url: /pratique-clinique/
