@@ -4,8 +4,10 @@ title: "Défense d'intérêts"
 permalink: /engagement-public/
 author_profile: true
 ---
-Cette section rassemble des lettres d'opinions que j'ai publié à travers divers médias québécois. Les sources originales sont citées.
 
+Cette section rassemble des lettres d'opinions que j'ai publiées à travers divers médias québécois. Les sources originales sont citées.
+
+<div class="collection-list">
   <ul class="lettres-list">
     {% assign lettres = site.engagement-public | sort: "date" | reverse %}
     {% for post in lettres %}
@@ -20,5 +22,4 @@ Cette section rassemble des lettres d'opinions que j'ai publié à travers diver
       </li>
     {% endfor %}
   </ul>
-
-
+</div>

@@ -25,7 +25,7 @@
 }
 
 .lettre-item {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid var(--global-border-color);
   padding: 1rem 0;
 }
 
@@ -33,12 +33,17 @@
   font-size: 1.2rem;
   font-weight: bold;
   text-decoration: none;
-  color: #333;
+  color: var(--global-text-color);
+  transition: color $global-transition;
+
+  &:hover {
+    color: var(--global-link-color-hover);
+  }
 }
 
 .lettre-meta {
   font-size: 0.9rem;
-  color: #777;
+  color: var(--global-text-color-light);
 }
 
 .projet-title a {
@@ -61,25 +66,4 @@
   margin-bottom: 1.5em;
 }
 
-.lettres-list {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 2em;
-}
-
-.lettre-item {
-  margin-bottom: 1.5em;
-  padding-bottom: 1em;
-  border-bottom: 1px solid #ccc;
-}
-
-.lettre-meta {
-  font-size: 0.9em;
-  color: #666;
-}
-
-.lettre-excerpt {
-  margin-top: 0.5em;
-  color: #444;
-}
 
