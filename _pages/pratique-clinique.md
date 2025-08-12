@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Pratique clinique"
-permalink: /pratique-clinique/
+title: "Pratique professionnelle"
+permalink: /pratique-professionnelle/
 author_profile: true
 ---
 

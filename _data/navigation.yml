@@ -11,11 +11,11 @@ main:
   - title: "Accueil"
     url: /
 
-  - title: "Articles &<br>ressources"
+  - title: "Ressources<br>cliniques"
     url: /ressources-cliniques/
     
-  - title: "Pratique clinique"
-    url: /pratique-clinique/
+  - title: "Pratique professionnelle"
+    url: /pratique-professionnelle/
 
   - title: "Recherche"
     url: /recherche/
