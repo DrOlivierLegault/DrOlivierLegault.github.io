@@ -14,6 +14,4 @@ permalink: /engagement-public/2023-09-tout-petits-soutien-particulier/
 Le 20 septembre 2023, j’ai publié une lettre ouverte dans *La Presse* intitulée :  
 **« Les tout-petits avec des besoins particuliers sont des citoyens à part entière »**
 
-En tant que pédiatre du développement au CHU Sainte-Justine, je tiens à souligner que ces enfants rencontrent de nombreuses barrières qui freinent leur développement. Un rapport de l’Observatoire des tout-petits met en lumière ces défis et l’urgence d’agir.
-
-👉 [Lire la lettre complète dans *La Presse*](https://www.lapresse.ca/dialogue/opinions/2023-09-20/les-tout-petits-ayant-besoin-de-soutien-particulier-sont-des-citoyens-a-part-entiere.php)
+👉 [Pour lire la lettre complète dans *La Presse*](https://www.lapresse.ca/dialogue/opinions/2023-09-20/les-tout-petits-ayant-besoin-de-soutien-particulier-sont-des-citoyens-a-part-entiere.php)

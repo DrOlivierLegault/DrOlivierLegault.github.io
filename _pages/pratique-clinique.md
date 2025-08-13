@@ -10,37 +10,36 @@ author_profile: true
 
 ## Ma pratique au CHUSJ et CRME
 
-Je travaille comme **pédiatre du développement** au CHU Sainte-Justine (CHUSJ) ainsi qu’au Centre de réadaptation Marie Enfant (CRME).
+Je travaille comme pédiatre du développement au CHU Sainte-Justine (CHUSJ) ainsi qu’au Centre de réadaptation Marie Enfant (CRME).
 
-Dans ces centres, j’évalue et j’accompagne des enfants et adolescent·e·s présentant diverses conditions neurodéveloppementales, notamment :  
-- Autisme  
-- Déficience intellectuelle  
-- Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)  
-- Paralysie cérébrale  
-- Troubles d’apprentissage  
-- Autres troubles neurodéveloppementaux (trouble développemental de la coordination, trouble du spectre de l’alcoolisation fœtale, etc.)
+Dans ces centres, j’évalue et accompagne des enfants et adolescent·e·s présentant diverses conditions neurodéveloppementales, notamment :
+-	Autisme
+-	Déficience intellectuelle
+-	Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)
+-	Paralysie cérébrale
+-	Troubles d’apprentissage
+-	Autres différences ou conditions neurodéveloppementales (ex. : trouble développemental de la coordination, trouble du spectre de l’alcoolisation fœtale, etc.)
 
-J’accompagne également des familles dont les enfants présentent des comportements dérangeants, en considérant les multiples facteurs pouvant y contribuer — comme les troubles du sommeil, les difficultés d’alimentation, ou d’autres enjeux fonctionnels.
+J’accompagne également les familles pour soutenir le bien‑être des enfants et adolescent·e·s dont certains comportements ou difficultés peuvent perturber le quotidien. Cette approche tient compte des multiples facteurs pouvant y contribuer, tels que les troubles du sommeil, les difficultés d’alimentation, ou d’autres enjeux fonctionnels.
 
-Au CRME, je participe aux activités de garde clinique pour les enfants hospitalisés à l’unité de réadaptation intensive et à l’unité d’hébergement. Je collabore aussi aux cliniques des maladies neuromusculaires.
+Au CRME, je participe aux activités de garde clinique pour les enfants hospitalisés à l’unité de réadaptation intensive et à l’unité d’hébergement, et je collabore aux cliniques des maladies neuromusculaires.
 
 ---
 
 <div style="background-color: #fff3cd; border-left: 6px solid #856404; padding: 1em 1.2em; margin: 1.5em 0; color: #856404;">
   <strong>⚠️ Avis important :</strong><br>
-  Ce site a pour objectif de fournir des informations générales sur ma pratique clinique et sur le développement des enfants.  
+  Ce site fournit des informations générales sur ma pratique professionnelle et des ressources clinique en lien avec le développement des enfants et adolescents.  
   <br><br>
-  Aucune demande de consultation médicale ne peut être traitée via ce site. Pour obtenir un rendez-vous, veuillez suivre les démarches officielles du CHU Sainte-Justine :  
-  👉 <a href="https://www.chusj.org/fr/soins-services/N/CIRENE/PublicCible/Medecins-et-professionnels/Referencement" target="_blank">Faire une demande de consultation</a>  
+  Aucune demande de consultation médicale ou de suivi ne peut être traitée via ce site. Pour une référence ou obtenir un rendez-vous, veuillez suivre les <a href="https://www.chusj.org/fr/soins-services/N/CIRENE/PublicCible/Medecins-et-professionnels/Referencement" target="_blank">démarches officielles du CHU Sainte-Justine. </a>  
   <br><br>
-  Les renseignements médicaux partagés ici sont à visée informative seulement et ne remplacent en aucun cas une évaluation clinique personnalisée. En cas de question médicale concernant votre enfant, veuillez consulter un·e professionnel·le de la santé.
+  Les informations médicales partagées ici sont à visée informative uniquement et ne remplacent pas une évaluation clinique personnalisée. Pour toute question médicale concernant votre enfant, consultez un·e professionnel·le de la santé.
 </div>
 
 ---
 
-## La pédiatrie du développement
+## Qu’est-ce que la pédiatrie du développement ?
 
-Parfois méconnue, la pédiatrie du développement est une surspécialité de la pédiatrie.  
+La pédiatrie du développement est une surspécialité de la pédiatrie.  
 Elle est reconnue par le Collège des médecins du Québec et le Collège royal des médecins et chirurgiens du Canada.
 
 Cette spécialité s’adresse aux enfants et adolescent·e·s dont le développement cognitif, langagier, moteur, sensoriel ou socioaffectif est marqué par des différences.
@@ -67,16 +66,16 @@ graph TD
     A --> C[ Examen physique/neurologique]
     A --> D[ Investigations médicales]
     
-    B --> E[ Diagnostic étiologique]
+    B --> E[ Analyse et compréhension]
     C --> E
     D --> E
     
     E --> F[ Plan d'intervention]
-    F --> G1[ Traitements pharmacologiques]
-    F --> G2[ Réadaptation]
+    F --> G1[ Interventions pharmacologiques]
+    F --> G2[ Réadaptation et thérapies]
     F --> G3[ Accommodations scolaires]
     
-    G1 --> H[ Accompagnement familial]
+    G1 --> H[ Soutien familial]
     G2 --> H
     G3 --> H
 
@@ -94,21 +93,22 @@ graph TD
 
 ---
 
-## Rôle du pédiatre du développement
+## Rôle et missions du pédiatre du développement
 
-En consultation, le pédiatre du développement peut notamment :
 
-- Reconstituer la trajectoire développementale de l’enfant, de la grossesse jusqu’à aujourd’hui  
-- Évaluer les antécédents médicaux pertinents  
-- Réaliser l’examen physique et neurologique  
-- Établir un profil clinique à partir des observations, des évaluations et de l’histoire développementale  
-- Émettre un diagnostic, si nécessaire  
-- Déterminer les examens ou investigations médicales utiles  
-- Recommander des traitements pharmacologiques adaptés (TND et comorbidités)  
-- Soutenir la famille dans la compréhension du profil de développement, du pronostic et des options thérapeutiques  
-- Collaborer avec le médecin ou l’infirmier·ère praticien·ne spécialisé·e (IPS) responsable du suivi  
-- Proposer un plan d’intervention individualisé  
-- Rédiger les rapports, lettres ou formulaires requis (soutien scolaire, allocations, réadaptation, etc.)  
-- Orienter vers des ressources fiables d'information, de soutien ou de répit
+Le pédiatre du développement :
+
+- Reconstitue la trajectoire développementale de l’enfant, de la grossesse à aujourd’hui
+- Évalue les antécédents médicaux pertinents
+- Réalise l’examen physique et neurologique
+- Établit un profil clinique à partir des observations, des évaluations et de l’histoire développementale
+-	Émet un diagnostic, si nécessaire, ou identifie les variations développementales
+-	Détermine les examens ou investigations médicales utiles
+-	Recommande des interventions pharmacologiques adaptées (TND et comorbidités)
+-	Soutient la famille dans la compréhension du profil de développement, du pronostic et des options thérapeutiques
+-	Collabore avec le médecin ou l’infirmier·ère praticien·ne spécialisé·e (IPS) responsable du suivi
+-	Propose un plan d’intervention individualisé
+-	Rédige les rapports, lettres ou formulaires requis (soutien scolaire, allocations, réadaptation, etc.)
+-	Oriente vers des ressources fiables d’information, de soutien ou de répit
 
 ---

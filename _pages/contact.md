@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Formulaire de contact"
 sitemap: true
 permalink: /contact/
 layout: single
