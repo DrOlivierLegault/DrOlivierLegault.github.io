@@ -4,6 +4,14 @@ sitemap: true
 permalink: /contact/
 layout: single
 ---
+<div style="background-color: #fff3cd; border-left: 6px solid #856404; padding: 1em 1.2em; margin: 1.5em 0; color: #856404;">
+  <strong>⚠️ Avis important :</strong><br>
+Ce formulaire de contact est destiné aux questions générales et aux messages concernant le site ou les collaborations professionnelles.
+Il n’est pas vérifié en continu et ne permet pas de demander une consultation médicale.
+
+Pour toute question concernant la santé de votre enfant, veuillez consulter un·e professionnel·le de la santé qualifié·e ou suivre les <a href="https://www.chusj.org/fr/soins-services/N/CIRENE/PublicCible/Medecins-et-professionnels/Referencement" target="_blank">démarches officielles du CHU Sainte-Justine</a>  
+</div>
+
 
 <form
   action="https://www.formbackend.com/f/8a91098937d89f7f"
