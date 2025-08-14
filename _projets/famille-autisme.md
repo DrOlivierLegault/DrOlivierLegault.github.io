@@ -2,7 +2,7 @@
 title: "Influence démographique et Trouble du spectre de l'autisme "
 layout: single
 sidebar: true
-permalink: /recherche/projets/prevalence-tsaf/
+permalink: /recherche/projets/famille-autisme/
 status: à venir
 collection: projets
 author_profile: true
