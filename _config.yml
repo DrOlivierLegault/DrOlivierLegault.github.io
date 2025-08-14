@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Dr Olivier Legault"
   pronouns         : "il/lui"
-  bio              : "Pédiatre du développement, chercheur et professeur adjoint de clinique"
+  bio              : "Pédiatre du développement, professeur et chercheur."
   location         : "Montréal"
   employer         : "CHU Sainte-Justine et<br>Université de Montréal"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #
+  github           : # 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # o.legault
   lastfm           : # Username
   linkedin         : "legaulto"
   mastodon         : # URL
