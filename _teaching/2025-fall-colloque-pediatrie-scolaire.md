@@ -4,7 +4,7 @@ collection: teaching
 type: "Conférence"
 permalink: /teaching/2025-fall-colloque-pediatrie-scolaire/
 venue: "Centre de formation continue, Faculté de médecine et des sciences de la santé, Université de Sherbrooke"
-date: 2024-09-19
+date: 2025-09-19
 location: "Sherbrooke, Québec, Canada"
 ---
 
