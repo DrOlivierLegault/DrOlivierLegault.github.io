@@ -9,59 +9,10 @@ redirect_from:
   - /accueil/
 ---
 
-<style>
-.btn {
-  display: inline-block;
-  padding: 0.75em 1.5em;
-  border-radius: 8px;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background-color 0.3s, color 0.3s, transform 0.2s, box-shadow 0.2s;
-  font-family: inherit;
-  text-align: center;
-}
-
-.btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-.btn-primary { background-color: #005f73; color: #fff; }
-.btn-primary:hover { background-color: #003d4a; color: #fff; }
-
-.btn-secondary { background-color: #94bfa3; color: #00332b; }
-.btn-secondary:hover { background-color: #78967d; color: #fff; }
-
-.btn-outline {
-  background-color: transparent;
-  color: #005f73 !important;   /* forcer la couleur */
-  border: 1px solid #005f73 !important;
-}
-.btn-outline:hover {
-  background-color: #005f73;
-  color: #fff !important;
-}
-
-.btn-full { display: block; width: 100%; max-width: 320px; margin: 1em auto; }
-@media (max-width: 500px) { .btn-full { max-width: 90%; } }
-
-.highlight-box {
-  background-color: #f0ede9;
-  border-left: 5px solid #005f73;
-  padding: 1em 1.2em;
-  margin: 1.5em 0;
-  font-style: italic;
-  color: #333;
-  border-radius: 6px;
-  max-width: 720px;
-}
-</style>
-
 ## Bienvenue sur mon site
+### *Comprendre et soutenir la diversité des trajectoires de développement*
 
 Bonjour ! Je me présente, je suis **Olivier Legault**, pédiatre du développement au CHU Sainte-Justine et au Centre de réadaptation Marie Enfant.  
-
-### *Comprendre et soutenir la diversité des trajectoires de développement*
 
 <div class="highlight-box">
 <strong>Je crois profondément à l’importance d’accompagner et d’outiller les familles dont les enfants et adolescent·e·s présentent des trajectoires de développement particulières.</strong>  
@@ -70,13 +21,15 @@ Mon approche se veut à la fois humaine, collaborative et attentive à la neurod
 
 ---
 
-## Ressources clés et actualités
+## Ressources clés
 
 <div style="text-align: center; margin-bottom: 1.5em;">
 <a href="ressources-cliniques" class="btn btn-primary">ℹ️ Chroniques</a>
 <a href="recherche" class="btn btn-secondary">📂 Projets de recherche</a>
 <a href="teaching" class="btn btn-outline">🎤 Conférences</a>
 </div>
+
+## Actualités
 
 - ℹ️ Dernière chronique : *[{{ site.posts.first.title }}]({{ site.posts.first.url }})*  
 
@@ -94,14 +47,18 @@ Mon approche se veut à la fois humaine, collaborative et attentive à la neurod
 
 ## Mon approche
 
-À travers ce site, j’ai pour objectif de partager des informations fiables et des ressources utiles sur le développement de l’enfant et de l’adolescent. Dans mon travail auprès des externes et résidents en médecine, je constate que ce domaine demeure parfois méconnu ou peu accessible.  
+À travers ce site, je souhaite partager des informations fiables et accessibles sur le développement de l’enfant et de l’adolescent.  
 
-J’espère donc que ce contenu servira non seulement aux médecins, mais aussi aux autres professionnel·le·s de la santé et de l’éducation, aux étudiant·e·s, ainsi qu’aux familles. J’aimerais également contribuer à mieux faire connaître la spécialité de la **pédiatrie du développement**.
+Ce contenu s’adresse autant aux médecins qu’aux autres professionnel·le·s de la santé et de l’éducation, aux étudiant·e·s et aux familles.  
 
-Pour consulter la liste de mes chroniques sur le développement de l’enfant, cliquez ci-dessous :
+Mon objectif est aussi de mieux faire connaître la spécialité de la **pédiatrie du développement**.
+
+Pour consulter la liste de mes chroniques, cliquez ci-dessous :  
 <a href="year-archive" class="btn btn-primary btn-full">
   Voir la liste de mes chroniques
 </a>
+
+### Explorer le site
 
 Différentes sections de ce site présentent mes activités : pratique professionnelle, ressources cliniques, projets de recherche, formations et congrès, défense des droits des enfants, publications et CV.
 
@@ -111,7 +68,15 @@ Différentes sections de ce site présentent mes activités : pratique professio
 
 Je travaille auprès d’enfants et d’adolescent·e·s présentant des différences dans leur développement moteur, langagier, social ou cognitif, ou rencontrant des difficultés ayant un impact sur leur quotidien.  
 
-Dans une approche interdisciplinaire, et lorsque cela est approprié et souhaité, nous posons des diagnostics cliniques afin de mieux comprendre leur profil, par exemple : autisme, déficience intellectuelle, TDAH, paralysie cérébrale ou troubles d’apprentissage.
+### Approche interdisciplinaire
+
+Dans une approche interdisciplinaire, et lorsque cela est approprié et souhaité, nous posons des diagnostics cliniques afin de mieux comprendre leur profil, par exemple :  
+- autisme  
+- déficience intellectuelle  
+- TDAH  
+- paralysie cérébrale  
+- troubles d’apprentissage  
+- etc.
 
 Pour en savoir plus sur ma pratique professionnelle, cliquez ci-dessous :
 <a href="pratique-professionnelle" class="btn btn-secondary btn-full">
@@ -122,9 +87,13 @@ Pour en savoir plus sur ma pratique professionnelle, cliquez ci-dessous :
 
 ## Engagement et défense des droits
 
-Je m’engage activement pour la **défense des droits et intérêts des enfants et adolescent·e·s à besoins particuliers**. J’ai à cœur de continuer à porter leur voix, et je demeure ouvert aux opportunités de collaboration ou de prise de parole.
+Je m’engage activement pour la **défense des droits et intérêts des enfants et adolescent·e·s à besoins particuliers**.  
 
-À ce sujet, j’ai publié [plusieurs lettres ouvertes](./lettres_ouvertes/) dans des médias tels que *La Presse* et *Le Journal de Montréal*.
+J’ai à cœur de continuer à porter leur voix et je demeure ouvert aux opportunités de collaboration ou de prise de parole.
+
+### Publication de lettres ouvertes
+
+À ce sujet, j’ai publié [plusieurs lettres ouvertes](./engagement-public/) dans des médias tels que *La Presse* et *Le Journal de Montréal*.  
 
 Pour consulter mes interventions publiques, cliquez ci-dessous :
 <a href="engagement-public" class="btn btn-outline btn-full">
@@ -135,7 +104,7 @@ Pour consulter mes interventions publiques, cliquez ci-dessous :
 
 ## Recherche
 
-Mes projets de recherche visent à mieux comprendre l’influence des vulnérabilités et des déterminants sociaux sur le développement des enfants et adolescent·e·s, en collaboration avec d’autres chercheur·e·s et équipes.
+Mes projets de recherche visent à mieux comprendre l’influence des vulnérabilités et des déterminants sociaux sur le développement des enfants et adolescent·e·s, en collaboration avec d’autres chercheur·e·s et équipes.  
 
 Pour découvrir mes projets de recherche, cliquez ci-dessous :
 <a href="recherche" class="btn btn-primary btn-full">
@@ -146,9 +115,10 @@ Pour découvrir mes projets de recherche, cliquez ci-dessous :
 
 ## Transmission des connaissances
 
-Je transmets mes connaissances à travers des **présentations scientifiques, formations cliniques et conférences publiques**, ainsi que par ce site. Je reste disponible pour des **collaborations, interventions médiatiques ou rôles d’expert** sur des sujets liés au développement de l’enfant.
+Je partage mon expertise par des **présentations scientifiques, formations cliniques et conférences publiques**, ainsi que sur ce site.  
 
-Pour connaître mes prochaines conférences et interventions, cliquez ci-dessous :
+Je suis aussi disponible pour des **collaborations, interventions médiatiques ou rôles d’expert** sur le développement de l’enfant.  
+
 <a href="teaching" class="btn btn-secondary btn-full">
   Voir mes conférences à venir
 </a>
@@ -157,7 +127,7 @@ Pour connaître mes prochaines conférences et interventions, cliquez ci-dessous
 
 ## CV (en bref)
 
-Voici un aperçu de mon parcours et de mes engagements professionnels.
+Voici un aperçu de mon parcours et de mes engagements professionnels.  
 
 **Formation**  
 - Doctorat en médecine (MD), Université de Montréal  
@@ -182,12 +152,11 @@ Pour consulter mon CV complet, cliquez ci-dessous :
   Consulter mon CV complet
 </a>
 
-
 ---
 
 ## Me contacter
 
-Vous souhaitez collaborer, organiser une conférence, ou en savoir plus ?  
+Vous souhaitez collaborer, organiser une conférence ou en savoir plus ?  
 
 <a href="contact" class="btn btn-primary btn-full">
   Contactez-moi
