@@ -1,64 +1,187 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-18T17:47:35+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">TSAF et neurodéveloppement : de la complexité diagnostique à l’accompagnement clinique</title><link href="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF" rel="alternate" type="text/html" title="TSAF et neurodéveloppement : de la complexité diagnostique à l’accompagnement clinique" /><published>2025-07-29T00:00:00+00:00</published><updated>2025-07-29T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/TSAF</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF"><![CDATA[<p><br /><br />
-<br /><br /><br />
-<br /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-18T21:50:26+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">TSAF et neurodéveloppement : complexité diagnostique et accompagnement clinique</title><link href="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF" rel="alternate" type="text/html" title="TSAF et neurodéveloppement : complexité diagnostique et accompagnement clinique" /><published>2025-07-29T00:00:00+00:00</published><updated>2025-07-29T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/TSAF</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF"><![CDATA[<h2 id="introduction">Introduction</h2>
 
-<hr />
+<p>L’exposition prénatale à l’alcool peut entraîner des atteintes développementales significatives, allant de troubles subtils de la cognition et du comportement à des déficits plus sévères touchant plusieurs domaines. En pratique clinique, le trouble du spectre de l’alcoolisation fœtale (TSAF) soulève de nombreuses questions concernant l’évaluation, le diagnostic et la prise en charge. Il est essentiel de comprendre le contexte et les implications d’un tel diagnostic afin d’orienter au mieux les interventions.</p>
 
-<div style="background-color: #fff3cd; border-left: 6px solid #856404; padding: 1em 1.2em; margin: 1.5em 0; color: #856404;">
-  <strong>⚠️ Avis important :</strong><br />
-  Cette page est en cours de rédaction. Les contenus présentés sont à titre informatif et feront l’objet de mises à jour et de révisions.
-</div>
-
-<h2 id="tsaf-et-neurodéveloppement--de-la-complexité-diagnostique-à-laccompagnement-clinique">TSAF et neurodéveloppement : de la complexité diagnostique à l’accompagnement clinique</h2>
+<p>Un exemple clinique illustratif :</p>
 
 <blockquote>
-  <p><em>« Je suis le suivi d’un enfant avec de multiples diagnostics — TDAH, TSA, anxiété — et une histoire d’exposition prénatale à l’alcool. Je me demande si un diagnostic formel de TSAF pourrait mieux orienter sa prise en charge. Est-ce pertinent? Et comment procéder dans le contexte du système québécois? »</em></p>
+  <p><em>« Pourriez-vous m’aider à poser un diagnostic de TSAF? Je prends en charge un patient adopté, dont la grossesse a été compliquée par une exposition à l’alcool. L’enfant présente plusieurs diagnostics neurodéveloppementaux (TDAH, TA, TSA, troubles anxieux) et je souhaite savoir si l’exposition anténatale à l’alcool pourrait expliquer ses difficultés. La neurologue a évoqué ce diagnostic, et je souhaite une orientation sur l’évaluation et la prise en charge clinique. »</em></p>
 </blockquote>
 
-<p>Cette question illustre les enjeux fréquents en clinique lorsqu’on cherche à comprendre et accompagner des trajectoires développementales complexes. Le texte ci-dessous reste provisoire et sera ajusté.</p>
+<p>Cette situation reflète la complexité des trajectoires développementales et souligne l’importance d’une approche nuancée, intégrant à la fois l’histoire médicale, les facteurs psychosociaux et les besoins spécifiques de l’enfant.</p>
 
 <hr />
 
 <h2 id="diagnostic-et-complexité">Diagnostic et complexité</h2>
 
-<p>L’effet tératogène de l’alcool est reconnu, mais l’exposition prénatale n’est qu’un <strong>facteur parmi d’autres</strong>. Le TSAF se manifeste souvent dans un contexte où <strong>interagissent facteurs génétiques, environnementaux et psychosociaux</strong>.</p>
-
-<p>Questions à considérer :</p>
+<p>Avant de poser un diagnostic de TSAF, plusieurs questions doivent être considérées pour déterminer la pertinence clinique et l’impact sur le suivi de l’enfant :</p>
 
 <ul>
-  <li>Ce diagnostic modifiera-t-il concrètement la trajectoire de soins?</li>
-  <li>Permettra-t-il l’accès à des services spécifiques?</li>
-  <li>Quels effets sur la stigmatisation ou les attentes parentales?</li>
+  <li>Le diagnostic modifiera-t-il concrètement la trajectoire de soins?</li>
+  <li>Permettra-t-il l’accès à des services ou ressources spécifiques?</li>
+  <li>Quels pourraient être les effets sur la stigmatisation familiale et sur les attentes parentales?</li>
+</ul>
+
+<p>Il est crucial de distinguer la nécessité d’un étiquetage du besoin réel d’intervention. La confirmation d’une exposition prénatale à l’alcool ne doit pas éclipser d’autres causes potentielles des troubles neurodéveloppementaux, notamment les syndromes génétiques ou les facteurs environnementaux. La documentation fiable de l’exposition et la prise en compte des biais cliniques sont également fondamentales, surtout dans le cadre de populations historiquement stigmatisées ou d’enfants adoptés.</p>
+
+<p>Bien que le TSAF soit reconnu pour son effet tératogène, il constitue <strong>un facteur parmi d’autres</strong>. Les enfants peuvent présenter des profils complexes où <strong>facteurs génétiques, environnementaux et psychosociaux interagissent</strong>, et d’autres substances ont parfois été consommées pendant la grossesse. Les facteurs fréquemment observés incluent :</p>
+
+<ul>
+  <li><strong>Âge maternel avancé</strong> : lié à certains risques génétiques et obstétricaux.</li>
+  <li><strong>Antécédents obstétricaux</strong> : le nombre de grossesses antérieures peut influencer la vulnérabilité développementale.</li>
+  <li><strong>Génétique familiale</strong> : certains traits neurodéveloppementaux peuvent être hérités indépendamment de l’exposition à l’alcool.</li>
+  <li><strong>État nutritionnel maternel</strong> : la malnutrition peut aggraver les effets de l’alcool.</li>
+  <li><strong>Niveau socio-économique</strong> : impact sur le soutien familial, l’accès aux soins et la stimulation cognitive.</li>
+  <li><strong>Santé mentale maternelle</strong> : dépression, trauma, isolement ou stress peuvent contribuer à la vulnérabilité de l’enfant.</li>
+  <li><strong>Consommation d’alcool chez l’autre parent</strong> : facteur supplémentaire influençant le contexte familial et environnemental.</li>
+</ul>
+
+<p>Un diagnostic précipité peut nuire à la prise en charge optimale. Certains enfants présentant un <strong>retard global de développement</strong> nécessitent une évaluation génétique approfondie, qui pourrait être négligée si l’on se concentre uniquement sur l’exposition prénatale.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+
+<p><strong>Recommandations récentes (Eliason et coll., 2024)<sup id="fnref:note" role="doc-noteref"><a href="#fn:note" class="footnote" rel="footnote">2</a></sup> :</strong><br />
+Le terme TSAF, lorsqu’il est utilisé comme diagnostic médical, <strong>peut stigmatiser les familles</strong> et créer un récit où la responsabilité maternelle est accentuée. Les auteurs recommandent une <strong>approche centrée sur les besoins fonctionnels</strong>, qui évalue les capacités, les besoins scolaires, psychosociaux et thérapeutiques, indépendamment de la confirmation de l’exposition. Cette démarche favorise un accès équitable aux soutiens et réduit les risques d’étiquetage inapproprié.</p>
+
+<hr />
+
+<h2 id="définition-et-critères-diagnostiques-du-tsaf">Définition et critères diagnostiques du TSAF</h2>
+
+<p>Le TSAF regroupe l’ensemble des atteintes pouvant résulter d’une exposition prénatale à l’alcool. Le diagnostic repose sur l’évaluation des traits faciaux caractéristiques, de l’exposition à risque et des domaines neurodéveloppementaux affectés.</p>
+
+<h3 id="catégories-diagnostiques">Catégories diagnostiques</h3>
+
+<ol>
+  <li>
+    <p><strong>TSAF avec traits faciaux caractéristiques</strong><br />
+La présence de traits faciaux distinctifs, combinée à des déficits dans <strong>trois domaines ou plus</strong> du neurodéveloppement, constitue cette catégorie, indépendamment de la confirmation de l’exposition.</p>
+  </li>
+  <li>
+    <p><strong>TSAF sans traits faciaux caractéristiques</strong><br />
+Ici, l’exposition prénatale est confirmée, et les déficits touchent également <strong>trois domaines ou plus</strong>, mais les traits faciaux ne sont pas observables.</p>
+  </li>
+  <li>
+    <p><strong>À risque de trouble neurodéveloppemental associé à l’exposition prénatale</strong><br />
+Les enfants ayant une exposition confirmée mais des déficits touchant <strong>moins de trois domaines</strong> sont considérés à risque.</p>
+  </li>
+</ol>
+
+<p>Les lignes directrices canadiennes fournissent le cadre de référence pour l’évaluation et le diagnostic.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">3</a></sup></p>
+
+<hr />
+
+<h3 id="exposition-à-risque-dalcool">Exposition à risque d’alcool</h3>
+
+<p>L’exposition prénatale à l’alcool est définie selon la fréquence et l’intensité de la consommation. Les périodes critiques et les seuils de risque sont décrits ci-dessous :</p>
+
+<ul>
+  <li>L’implantation embryonnaire survient environ 14 jours après la fécondation; une consommation dans les deux premières semaines n’est généralement pas considérée à risque.</li>
+  <li>Une exposition prénatale <strong>à risque</strong> se caractérise par :
+    <ul>
+      <li>≥ 7 consommations standards par semaine, <strong>ou</strong></li>
+      <li>
+        <blockquote>
+          <p>4 consommations par occasion à au moins deux reprises</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li>Une consommation standard correspond à 0,6 oz / 17,7 ml d’éthanol pur</li>
+</ul>
+
+<p><strong>Confirmation de l’exposition</strong> peut se faire par :</p>
+<ul>
+  <li>Observations cliniques fiables</li>
+  <li>Déclarations de la mère ou d’une source fiable</li>
+  <li>Dossiers médicaux (taux d’alcoolémie positifs, suivi pour alcoolisme)</li>
+  <li>Indicateurs sociaux, juridiques ou médicaux liés à l’alcool</li>
 </ul>
 
 <hr />
 
-<h2 id="contexte-québécois">Contexte québécois</h2>
+<h3 id="traits-faciaux-caractéristiques">Traits faciaux caractéristiques</h3>
 
-<p>Au Québec, <strong>il n’existe pas encore de clinique spécialisée en TSAF</strong>, limitant l’accès à une évaluation diagnostique formelle. L’approche repose donc sur <strong>la compréhension des besoins fonctionnels</strong>, indépendamment de l’étiquetage.</p>
+<p>L’identification des traits faciaux se fait selon des mesures standardisées :</p>
+
+<ul>
+  <li><strong>Longueur des fentes palpébrales :</strong> &lt; 3e percentile ou -2 écarts types</li>
+  <li><strong>Philtrum :</strong> score 4 ou 5 sur 5</li>
+  <li><strong>Lèvre supérieure :</strong> score 4 ou 5 sur 5</li>
+</ul>
+
+<p>Ces caractéristiques sont utilisées dans le cadre d’une évaluation complète, et leur présence renforce la probabilité d’un TSAF.</p>
 
 <hr />
 
-<h2 id="ressource-provisoire--lalgorithme-du-canfasd">Ressource provisoire : l’algorithme du CanFASD</h2>
+<h3 id="évaluation-neurodéveloppementale">Évaluation neurodéveloppementale</h3>
 
-<p>Le <strong>Canadian FASD Research Network (CanFASD)</strong> propose un outil d’aide à la décision basé sur la symptomatologie plutôt que sur le diagnostic formel.</p>
+<p>L’évaluation des domaines neurodéveloppementaux est essentielle pour identifier les besoins spécifiques de l’enfant. Les domaines évalués comprennent :</p>
+
+<ul>
+  <li>Habiletés motrices</li>
+  <li>Neuroanatomie et neurophysiologie</li>
+  <li>Cognition et raisonnement</li>
+  <li>Langage expressif et réceptif</li>
+  <li>Rendement scolaire</li>
+  <li>Mémoire</li>
+  <li>Attention et concentration</li>
+  <li>Fonctionnement exécutif (contrôle des impulsions, hyperactivité)</li>
+  <li>Régulation de l’affect (anxiété, humeur)</li>
+  <li>Comportement adaptatif et compétences sociales</li>
+</ul>
+
+<p>Un enfant présentant des déficits dans <strong>trois domaines ou plus</strong> peut être considéré dans le spectre TSAF.</p>
+
+<hr />
+
+<h3 id="investigations-complémentaires">Investigations complémentaires</h3>
+
+<p>Pour mieux cerner les causes des troubles neurodéveloppementaux et exclure d’autres diagnostics, il est recommandé de considérer :</p>
+
+<ul>
+  <li>Analyses génétiques : CGH, X fragile</li>
+  <li>Tests métaboliques adaptés au profil clinique (ex. protocole TIDE)</li>
+  <li>Tests biologiques : ferritine, FSC, CK, TSH</li>
+  <li>Évaluation sensorielle : audition et vision</li>
+  <li>Imagerie cérébrale (IRM) si microcéphalie ou anomalies suggestives</li>
+</ul>
+
+<p>Au Québec, l’absence de <strong>cliniques spécialisées TSAF</strong> limite l’accès à une évaluation formelle. L’approche clinique privilégie donc <strong>l’identification des besoins fonctionnels</strong> et l’accompagnement interdisciplinaire, indépendamment du diagnostic étiologique.</p>
+
+<hr />
+
+<h2 id="ressources-complémentaires">Ressources complémentaires</h2>
+
+<p>Pour soutenir la pratique clinique et l’accompagnement des familles :</p>
+
+<ul>
+  <li><strong>CanFASD – site officiel :</strong> <a href="https://canfasd.ca/about/">https://canfasd.ca/about/</a></li>
+  <li><strong>Algorithme de médication psychotrope TSAF (PDF) :</strong> <a href="https://canfasd.ca/wp-content/uploads/2024/05/Algorithme-de-medication-psychotrope-pour-le-TSAF.pdf">https://canfasd.ca/wp-content/uploads/2024/05/Algorithme-de-medication-psychotrope-pour-le-TSAF.pdf</a></li>
+</ul>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Le diagnostic TSAF peut fournir une <strong>explication étiologique</strong>, mais <strong>il n’est pas indispensable à la prise en charge</strong>. L’accent doit être mis sur :</p>
+
+<ul>
+  <li>La compréhension globale du profil de l’enfant</li>
+  <li>L’identification des besoins prioritaires</li>
+  <li>La mise en place d’un accompagnement interdisciplinaire adapté</li>
+</ul>
+
 <blockquote>
-  <p>🔗 <a href="https://canfasd.ca/about/">CanFASD – site officiel</a><br />
-📄 <a href="https://canfasd.ca/wp-content/uploads/2024/05/Algorithme-de-medication-psychotrope-pour-le-TSAF.pdf">Algorithme de médication psychotrope pour le TSAF (PDF)</a></p>
+  <p>⚠️ Note : cette page est <strong>provisoire</strong> et sera mise à jour pour clarifier les recommandations et compléter les références cliniques.</p>
 </blockquote>
-
-<hr />
-
-<h2 id="à-retenir-brouillon">À retenir (brouillon)</h2>
-
-<p>Le diagnostic peut avoir une valeur explicative, mais <strong>il n’est pas un prérequis à l’intervention</strong>. L’essentiel reste :</p>
-
-<ul>
-  <li>Comprendre le portrait global de l’enfant</li>
-  <li>Identifier les besoins prioritaires</li>
-  <li>Offrir un accompagnement interdisciplinaire</li>
-</ul>
-
-<blockquote>
-  <p>⚠️ Note : cette page est <strong>provisoire</strong> et fera l’objet de révisions pour clarifier les recommandations et compléter les références cliniques.</p>
-</blockquote>]]></content><author><name>Dr Olivier Legault</name><email>/contact/</email></author><category term="neurodéveloppement" /><category term="pratique clinique" /><category term="TSAF" /><category term="pédiatrie du développement" /><category term="diagnostic" /><category term="ressources cliniques" /><summary type="html"><![CDATA[Faut-il poser un diagnostic de TSAF pour orienter les services? Réflexions cliniques sur l'étiologie, les besoins fonctionnels et les ressources disponibles.]]></summary></entry></feed>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Carter MT, Srour M, Au PB, Buhas D, Dyack S, Eaton A, Inbar-Feigenberg M, Howley H, Kawamura A, Lewis SME, McCready E, Nelson TN, Vallance H; Canadian College of Medical Geneticists. <em>Genetic and metabolic investigations for neurodevelopmental disorders: position statement of the Canadian College of Medical Geneticists (CCMG).</em> J Med Genet. 2023 Jun;60(6):523-532. doi: 10.1136/jmg-2022-108962. Epub 2023 Feb 23. PMID: 36822643; PMCID: PMC10313961. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:note" role="doc-endnote">
+      <p>Eliason SHY, Miller AR, Gibbard WB, Salh G, Lanphear N. Asking difficult questions about fetal alcohol spectrum disorder in the context of the child, the mother, and the systems in which they live. Lancet Child Adolesc Health. 2024 Nov;8(11):835-842. doi: 10.1016/S2352-4642(24)00188-3. Epub 2024 Sep 16. PMID: 39299258. <a href="#fnref:note" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Fetal alcohol spectrum disorder: a guideline for diagnosis across the lifespan. Jocelynn L. Cook et al., CMAJ 2016;188(3):191-197. DOI: 10.1503/cmaj.141593 <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Dr Olivier Legault</name><email>/contact/</email></author><category term="neurodéveloppement" /><category term="pratique clinique" /><category term="TSAF" /><category term="pédiatrie du développement" /><category term="diagnostic" /><category term="ressources cliniques" /><summary type="html"><![CDATA[Faut-il poser un diagnostic de TSAF pour orienter les services? Réflexions cliniques sur l'étiologie, les besoins fonctionnels et les ressources disponibles.]]></summary></entry></feed>
