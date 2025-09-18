@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-18T21:52:31+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">TSAF et neurodéveloppement : complexité diagnostique et accompagnement clinique</title><link href="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF" rel="alternate" type="text/html" title="TSAF et neurodéveloppement : complexité diagnostique et accompagnement clinique" /><published>2025-07-29T00:00:00+00:00</published><updated>2025-07-29T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/TSAF</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF"><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-18T22:01:35+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">TSAF et neurodéveloppement : repenser le diagnostic au service des besoins de l’enfant</title><link href="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF" rel="alternate" type="text/html" title="TSAF et neurodéveloppement : repenser le diagnostic au service des besoins de l’enfant" /><published>2025-07-29T00:00:00+00:00</published><updated>2025-07-29T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/TSAF</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF"><![CDATA[<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Sur cette page</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#introduction" id="markdown-toc-introduction">Introduction</a></li>
+  <li><a href="#diagnostic-et-complexité" id="markdown-toc-diagnostic-et-complexité">Diagnostic et complexité</a></li>
+  <li><a href="#recherche-et-surveillance-en-cours" id="markdown-toc-recherche-et-surveillance-en-cours">Recherche et surveillance en cours</a></li>
+  <li><a href="#pour-plus-de-détails-sur-mon-implication-et-ce-projet--prévalence-du-trouble-de-lalcoolisation-fœtale-tsaf" id="markdown-toc-pour-plus-de-détails-sur-mon-implication-et-ce-projet--prévalence-du-trouble-de-lalcoolisation-fœtale-tsaf">Pour plus de détails sur mon implication et ce projet : Prévalence du trouble de l’alcoolisation fœtale (TSAF).</a></li>
+  <li><a href="#définition-et-critères-diagnostiques-du-tsaf" id="markdown-toc-définition-et-critères-diagnostiques-du-tsaf">Définition et critères diagnostiques du TSAF</a>    <ul>
+      <li><a href="#catégories-diagnostiques" id="markdown-toc-catégories-diagnostiques">Catégories diagnostiques</a></li>
+      <li><a href="#exposition-à-risque-dalcool" id="markdown-toc-exposition-à-risque-dalcool">Exposition à risque d’alcool</a></li>
+      <li><a href="#traits-faciaux-caractéristiques" id="markdown-toc-traits-faciaux-caractéristiques">Traits faciaux caractéristiques</a></li>
+      <li><a href="#évaluation-neurodéveloppementale" id="markdown-toc-évaluation-neurodéveloppementale">Évaluation neurodéveloppementale</a></li>
+      <li><a href="#investigations-complémentaires" id="markdown-toc-investigations-complémentaires">Investigations complémentaires</a></li>
+    </ul>
+  </li>
+  <li><a href="#ressources-complémentaires" id="markdown-toc-ressources-complémentaires">Ressources complémentaires</a></li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+
+  </nav>
+</aside>
+<h2 id="introduction">Introduction</h2>
 
 <p>L’exposition prénatale à l’alcool peut entraîner des atteintes développementales significatives, allant de troubles subtils de la cognition et du comportement à des déficits plus sévères touchant plusieurs domaines. En pratique clinique, le trouble du spectre de l’alcoolisation fœtale (TSAF) soulève de nombreuses questions concernant l’évaluation, le diagnostic et la prise en charge. Il est essentiel de comprendre le contexte et les implications d’un tel diagnostic afin d’orienter au mieux les interventions.</p>
 
@@ -42,6 +64,19 @@
 Le terme TSAF, lorsqu’il est utilisé comme diagnostic médical, <strong>peut stigmatiser les familles</strong> et créer un récit où la responsabilité maternelle est accentuée. Les auteurs recommandent une <strong>approche centrée sur les besoins fonctionnels</strong>, qui évalue les capacités, les besoins scolaires, psychosociaux et thérapeutiques, indépendamment de la confirmation de l’exposition. Cette démarche favorise un accès équitable aux soutiens et réduit les risques d’étiquetage inapproprié.</p>
 
 <hr />
+
+<h2 id="recherche-et-surveillance-en-cours">Recherche et surveillance en cours</h2>
+
+<p>Je participe actuellement à un projet de <strong>surveillance nationale du FASD</strong> visant à mieux comprendre la prévalence et les caractéristiques des enfants diagnostiqués avec ce trouble au Canada. L’objectif est de recueillir des données actualisées sur la manière dont les pédiatres diagnostiquent et prennent en charge ces enfants, ainsi que sur les contextes sociaux, géographiques et familiaux dans lesquels ils vivent.</p>
+
+<p>Ce projet est en cours et représente une opportunité unique de :</p>
+
+<ul>
+  <li>Identifier les variations régionales de la prévalence, y compris le contexte spécifique du Québec par rapport au reste du Canada.</li>
+  <li>Explorer l’influence des déterminants sociaux et environnementaux sur le développement des enfants exposés à l’alcool prénatalement.</li>
+</ul>
+
+<h2 id="pour-plus-de-détails-sur-mon-implication-et-ce-projet--prévalence-du-trouble-de-lalcoolisation-fœtale-tsaf">Pour plus de détails sur mon implication et ce projet : <a href="https://drolivierlegault.github.io/recherche/projets/prevalence-tsaf/">Prévalence du trouble de l’alcoolisation fœtale (TSAF)</a>.</h2>
 
 <h2 id="définition-et-critères-diagnostiques-du-tsaf">Définition et critères diagnostiques du TSAF</h2>
 
