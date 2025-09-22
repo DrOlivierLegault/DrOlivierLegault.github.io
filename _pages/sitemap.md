@@ -9,6 +9,8 @@ author_profile: true
 
 Voici la liste de toutes les pages et publications disponibles sur le site.
 
+[XML version]({{ base_path }}/sitemap.xml)
+
 <h2>Pages</h2>
 {% for post in site.pages %}
   {% include archive-single.html %}
