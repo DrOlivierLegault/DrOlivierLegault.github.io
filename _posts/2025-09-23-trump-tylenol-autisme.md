@@ -57,8 +57,7 @@ La réalité, c’est que :
 Le trouble du spectre de l’autisme (TSA) est une condition neurodéveloppementale complexe.  
 Il représente des enfants, des adolescents et des adultes avec des forces, des qualités, mais aussi des difficultés bien réelles.  
 
-Ces enfants et leurs familles vivent déjà des vulnérabilités et des défis quotidiens. Plutôt que de rajouter une couche de peur ou de culpabilité, concentrons-nous sur ce qui compte :  
-- offrir du soutien, des services adaptés et de la compréhension.  
+Ces enfants et leurs familles vivent déjà des vulnérabilités et des défis quotidiens. Plutôt que de rajouter une couche de peur ou de culpabilité, concentrons-nous sur ce qui compte : **offrir du soutien, des services adaptés et de la compréhension.**  
 
 C’est là-dessus que nous devons mettre notre énergie.  
 
