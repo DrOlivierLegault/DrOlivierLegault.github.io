@@ -93,22 +93,20 @@ graph TD
 
 ---
 
-## Rôle et missions du pédiatre du développement
+## Rôle et missions du pédiatre du développement  
 
+Le pédiatre du développement :  
 
-Le pédiatre du développement :
-
-- Reconstitue la trajectoire développementale de l’enfant, de la grossesse à aujourd’hui
-- Évalue les antécédents médicaux pertinents
-- Réalise l’examen physique et neurologique
-- Établit un profil clinique à partir des observations, des évaluations et de l’histoire développementale
--	Émet un diagnostic, si nécessaire, ou identifie les variations développementales
--	Détermine les examens ou investigations médicales utiles
--	Recommande des interventions pharmacologiques adaptées (TND et comorbidités)
--	Soutient la famille dans la compréhension du profil de développement, du pronostic et des options thérapeutiques
--	Collabore avec le médecin ou l’infirmier·ère praticien·ne spécialisé·e (IPS) responsable du suivi
--	Propose un plan d’intervention individualisé
--	Rédige les rapports, lettres ou formulaires requis (soutien scolaire, allocations, réadaptation, etc.)
--	Oriente vers des ressources fiables d’information, de soutien ou de répit
+- Évalue la trajectoire développementale de l’enfant
+- Recueille les antécédents médicaux pertinents  
+- Réalise l’examen physique et neurologique  
+- Établit un profil clinique à partir des observations, des évaluations professionnelles antérieures et de l’anamnèse médicale et développementale  
+- Met en lien le profil avec un diagnostic, si nécessaire  
+- Recommande des examens ou des investigations médicales  
+- Propose des interventions non pharmacologiques et pharmacologiques adaptées  
+- Accompagne la famille dans la compréhension du développement, du pronostic et des options thérapeutiques  
+- Collabore avec les professionnels responsables du suivi médical ou psychosocial  
+- Rédige les rapports, lettres ou formulaires requis (soutien scolaire, allocations, réadaptation, etc.)  
+- Oriente vers des ressources fiables d’information, de soutien ou de répit  
 
 ---

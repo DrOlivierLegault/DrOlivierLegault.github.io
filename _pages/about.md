@@ -54,7 +54,7 @@ Ce contenu s’adresse autant aux médecins qu’aux autres professionnel·le·s
 Mon objectif est aussi de mieux faire connaître la spécialité de la **pédiatrie du développement**.
 
 Pour consulter la liste de mes chroniques, cliquez ci-dessous :  
-<a href="year-archive" class="btn btn-primary btn-full">
+<a href="ressources-cliniques" class="btn btn-primary btn-full">
   Voir la liste de mes chroniques
 </a>
 
