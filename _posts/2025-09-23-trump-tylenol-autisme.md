@@ -1,6 +1,6 @@
 ---
 title: "Tylenol et autisme : clarifions la science, soutenons les familles"
-og_image: og_image.jpg
+og_image: /images/og_image.jpg
 layout: single
 permalink: /ressources-cliniques/2025-09-23-tylenol-autisme
 author_profile: true

@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-23T19:10:15+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">Tylenol et autisme : clarifions la science, soutenons les familles</title><link href="http://localhost:4000/ressources-cliniques/2025-09-23-tylenol-autisme" rel="alternate" type="text/html" title="Tylenol et autisme : clarifions la science, soutenons les familles" /><published>2025-09-23T00:00:00+00:00</published><updated>2025-09-23T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/trump-tylenol-autisme</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-09-23-tylenol-autisme"><![CDATA[<p>Récemment, beaucoup d’encre a coulé autour d’affirmations selon lesquelles la prise d’acétaminophène (Tylenolᴹᴰ) pendant la grossesse causerait l’autisme.<br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-08T20:23:27+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">Le leucovorin (acide folinique) et l’autisme : quoi en penser ?</title><link href="http://localhost:4000/ressources-cliniques/2025-10-08-Leucovorin-autisme" rel="alternate" type="text/html" title="Le leucovorin (acide folinique) et l’autisme : quoi en penser ?" /><published>2025-10-08T00:00:00+00:00</published><updated>2025-10-08T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/Leucovorin-autisme</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-10-08-Leucovorin-autisme"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Sur cette page</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#introduction" id="markdown-toc-introduction">Introduction</a></li>
+  <li><a href="#quest-ce-que-lacide-folinique-" id="markdown-toc-quest-ce-que-lacide-folinique-">Qu’est-ce que l’acide folinique ?</a></li>
+  <li><a href="#ce-que-montrent-les-études" id="markdown-toc-ce-que-montrent-les-études">Ce que montrent les études</a></li>
+  <li><a href="#effets-secondaires-rapportés" id="markdown-toc-effets-secondaires-rapportés">Effets secondaires rapportés</a></li>
+  <li><a href="#pourquoi-demeurer-prudent" id="markdown-toc-pourquoi-demeurer-prudent">Pourquoi demeurer prudent</a></li>
+  <li><a href="#enjeux-éthiques-et-sociaux" id="markdown-toc-enjeux-éthiques-et-sociaux">Enjeux éthiques et sociaux</a></li>
+  <li><a href="#en-pratique-clinique--que-répondre-" id="markdown-toc-en-pratique-clinique--que-répondre-">En pratique clinique : que répondre ?</a></li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+
+  </nav>
+</aside>
+
+<p>Ces derniers mois, plusieurs médias ont remis à l’avant-plan certaines études — parfois anciennes — suggérant que la prise d’<strong>acide folinique (leucovorin)</strong> chez les enfants autistes pourrait réduire certains symptômes.</p>
+
+<p>Bien que certains résultats montrent une <strong>amélioration de scores</strong> sur des échelles comportementales pour des sous-groupes spécifiques, il importe d’interpréter ces données avec prudence : comprendre le contexte des études, leurs limites méthodologiques et la portée réelle des résultats.</p>
+
+<p>Par ailleurs, bien que le leucovorin soit généralement considéré comme sécuritaire, ce n’est pas un argument suffisant pour en recommander la prescription. Ce médicament est utilisé, entre autres, chez certains patients sous méthotrexate (notamment en oncologie), et une augmentation non justifiée de son usage pourrait contribuer à des pénuries.</p>
+
+<p>Enfin, il est essentiel de rappeler que ces discussions ravivent souvent une idée erronée : celle selon laquelle l’autisme serait une maladie à « guérir ». Cette conception entretient la stigmatisation et détourne l’attention des véritables besoins des personnes autistes et de leurs familles.</p>
+
+<hr />
+
+<h2 id="quest-ce-que-lacide-folinique-">Qu’est-ce que l’acide folinique ?</h2>
+
+<p>L’<strong>acide folinique</strong> (ou leucovorin) est la forme active du <strong>folate (vitamine B9)</strong>. Il ne faut pas le confondre avec l’<strong>acide folique</strong>, supplément souvent recommandé, notamment pendant la grossesse. Les deux substances ne sont pas interchangeables dans toutes les indications.</p>
+
+<p>L’acide folinique est disponible sous forme de supplément (en vente libre, parfois en ligne) et aussi en version pharmaceutique prescrite. Comme pour de nombreux produits de santé naturels, la <strong>qualité et la teneur réelle</strong> peuvent varier selon le fabricant. À ce jour, les données scientifiques demeurent <strong>insuffisantes</strong> pour justifier une prescription systématique chez les enfants autistes.</p>
+
+<hr />
+
+<h2 id="ce-que-montrent-les-études">Ce que montrent les études</h2>
+
+<p>Une étude souvent citée est :</p>
+
+<blockquote>
+  <p>Panda, P.K., Sharawat, I.K., Saha, S. et al. <em>Efficacy of oral folinic acid supplementation in children with autism spectrum disorder: a randomized double-blind, placebo-controlled trial.</em> Eur J Pediatr 183, 4827–4835 (2024).<br />
+<a href="https://doi.org/10.1007/s00431-024-05762-6">https://doi.org/10.1007/s00431-024-05762-6</a></p>
+</blockquote>
+
+<p>Les travaux portant sur le leucovorin reposent sur l’hypothèse selon laquelle certains enfants autistes présenteraient une <strong>atteinte des récepteurs au folate</strong>, liée à la présence d’<strong>anticorps anti-récepteurs du folate</strong>. Cette condition — dite <em>cerebral folate deficiency</em> — a été observée dans certains syndromes apparentés à l’autisme (p. ex. syndrome de Rett).</p>
+
+<p>Cependant, ces observations ne s’appliquent pas à l’ensemble des personnes autistes. Les études disponibles incluent de <strong>petits échantillons (souvent moins de 100 participants)</strong>, des <strong>mesures hétérogènes</strong> et des <strong>suivis à court terme</strong>. Les améliorations rapportées concernent surtout des <strong>scores d’évaluation</strong> et non le fonctionnement global de l’enfant dans la vie quotidienne.</p>
+
+<p>Bref, les données demeurent <strong>préliminaires</strong> et ne permettent pas de recommander le leucovorin comme traitement de l’autisme.</p>
+
+<hr />
+
+<h2 id="effets-secondaires-rapportés">Effets secondaires rapportés</h2>
+
+<p>Les études publiées n’ont pas montré d’effets indésirables majeurs, mais les effectifs sont trop restreints pour tirer des conclusions fermes sur la sécurité à long terme.</p>
+
+<hr />
+
+<h2 id="pourquoi-demeurer-prudent">Pourquoi demeurer prudent</h2>
+
+<p>La <em>Society for Developmental and Behavioral Pediatrics (SDBP)</em> a récemment publié un <a href="/files/SDBP_Autism-Statement_9.2025_1.pdf"><strong>énoncé de position</strong> (septembre 2025)</a> rappelant que :</p>
+
+<blockquote>
+  <p>Les recherches sur le leucovorin proviennent d’un nombre limité d’études de qualité variable, utilisant des doses et des critères de mesure différents. Les tests de détection des anticorps anti-récepteurs du folate (FRAT) ne sont pas fiables. Il est donc impossible, à ce stade, de formuler des recommandations claires sur le traitement au leucovorin.</p>
+</blockquote>
+
+<p>La prudence est donc de mise. Les explications simplistes et les solutions rapides risquent de <strong>nourrir de faux espoirs</strong> et de <strong>culpabiliser les familles</strong>, plutôt que d’apporter une aide concrète. L’autisme est une condition complexe, multifactorielle, qui nécessite des approches individualisées et fondées sur les besoins réels de la personne.</p>
+
+<hr />
+
+<h2 id="enjeux-éthiques-et-sociaux">Enjeux éthiques et sociaux</h2>
+
+<p>Chercher à « traiter » ou « corriger » l’autisme véhicule l’idée que cette condition est une anomalie biologique à éliminer. Or, plusieurs voix s’élèvent pour rappeler qu’il s’agit avant tout d’une <strong>différence neurodéveloppementale</strong>.</p>
+
+<blockquote>
+  <p>« Chaque fois qu’on parle de prévenir ou de guérir l’autisme, j’ai l’impression qu’on nie ma dignité. Oui, l’autisme entraîne des défis, mais il fait partie de moi et de ma façon d’être dans le monde. Je ne suis pas une erreur biologique. »<br />
+— Témoignage paru dans <em>La Presse</em>, 29 septembre 2025<br />
+<a href="https://www.lapresse.ca/dialogue/temoignages/2025-09-29/en-tant-qu-autiste-je-refuse-que-mon-existence-soit-instrumentalisee.php">Lire l’article complet</a></p>
+</blockquote>
+
+<p>Ces débats occupent souvent l’espace médiatique, au détriment des véritables enjeux : <strong>accès aux services</strong>, <strong>soutien aux familles</strong>, <strong>inclusion sociale</strong> et <strong>valorisation des forces</strong> des personnes autistes.</p>
+
+<hr />
+
+<h2 id="en-pratique-clinique--que-répondre-">En pratique clinique : que répondre ?</h2>
+
+<p>Lorsqu’un parent ou un collègue vous interroge sur le leucovorin :</p>
+
+<ul>
+  <li><strong>Reconnaître l’intérêt</strong> pour le sujet et écouter les inquiétudes du parent.</li>
+  <li><strong>Présenter les faits</strong> : les études sont limitées, de petite taille et difficilement généralisables.</li>
+  <li><strong>Expliquer les incertitudes</strong> : absence de preuve de bénéfice clinique global, tests biologiques non fiables.</li>
+  <li><strong>Mentionner la sécurité relative</strong>, mais aussi les enjeux d’accès et de coût.</li>
+  <li><strong>Souligner qu’il n’est pas fautif de ne pas prescrire</strong> : les données actuelles ne soutiennent pas son usage systématique.</li>
+  <li><strong>Valoriser les approches fondées sur le soutien</strong>, la compréhension du profil de l’enfant et le renforcement de ses forces.</li>
+</ul>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Le leucovorin fait partie d’un champ de recherche intéressant, mais encore <strong>expérimental</strong>.<br />
+Aucune recommandation clinique ne justifie aujourd’hui son utilisation systématique dans l’autisme.<br />
+Notre responsabilité, comme cliniciens, est de <strong>soutenir les familles</strong> avec rigueur, empathie et esprit critique, tout en évitant de promouvoir des interventions non validées qui risquent de détourner l’attention des véritables besoins des enfants.</p>]]></content><author><name>Dr Olivier Legault</name><email>/contact/</email></author><category term="neurodéveloppement" /><category term="pratique clinique" /><category term="autisme" /><category term="pédiatrie du développement" /><category term="ressources cliniques" /><summary type="html"><![CDATA[Comment répondre à une demande de consultation ou à des questions de parents sur la prise de leucovorin / acide folinique chez l’enfant autiste.]]></summary></entry><entry><title type="html">Tylenol et autisme : clarifions la science, soutenons les familles</title><link href="http://localhost:4000/ressources-cliniques/2025-09-23-tylenol-autisme" rel="alternate" type="text/html" title="Tylenol et autisme : clarifions la science, soutenons les familles" /><published>2025-09-23T00:00:00+00:00</published><updated>2025-09-23T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/trump-tylenol-autisme</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-09-23-tylenol-autisme"><![CDATA[<p>Récemment, beaucoup d’encre a coulé autour d’affirmations selon lesquelles la prise d’acétaminophène (Tylenolᴹᴰ) pendant la grossesse causerait l’autisme.<br />
 Ces propos ont suscité de nombreuses réactions, mais ils ne reflètent pas ce que dit la science.<br />
 De plus, ils détournent l’attention d’enjeux qui, à mon avis, sont bien plus importants.</p>
 
@@ -69,7 +174,9 @@ Il représente des enfants, des adolescents et des adultes avec des forces, des 
   <li>Ahlqvist VH, Sjöqvist H, Dalman C, et al. <em>Acetaminophen Use During Pregnancy and Children’s Risk of Autism, ADHD, and Intellectual Disability.</em> JAMA. 2024;331(14):1205–1214. doi:<a href="https://doi.org/10.1001/jama.2024.3172">10.1001/jama.2024.3172</a></li>
   <li>Prada D, Ritz B, Bauer AZ, et al. <em>Evaluation of the evidence on acetaminophen use and neurodevelopmental disorders using the Navigation Guide methodology.</em> Environ Health. 2025;24:56. doi:<a href="https://doi.org/10.1186/s12940-025-01208-0">10.1186/s12940-025-01208-0</a></li>
   <li>Hutson J.R., Smith G.N., Codsi E., Garcia-Bournissen F. <em>SOGC Position Statement on the use of Acetaminophen for Analgesia and Fever in Pregnancy.</em> J Obstet Gynaecol Can. 2025.</li>
-</ol>]]></content><author><name>Dr Olivier Legault</name><email>/contact/</email></author><category term="neurodéveloppement" /><category term="pratique clinique" /><category term="autisme" /><category term="acétaminophène" /><category term="grossesse" /><category term="pédiatrie du développement" /><category term="actualité" /><summary type="html"><![CDATA[À la suite des manchettes liant Tylenol et autisme, rappelons ce que dit la science et ce qui importe vraiment : accompagner les enfants et leurs familles.]]></summary></entry><entry><title type="html">TSAF et neurodéveloppement : repenser le diagnostic au service des besoins de l’enfant</title><link href="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF" rel="alternate" type="text/html" title="TSAF et neurodéveloppement : repenser le diagnostic au service des besoins de l’enfant" /><published>2025-07-29T00:00:00+00:00</published><updated>2025-07-29T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/TSAF</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF"><![CDATA[<hr />
+</ol>]]></content><author><name>Dr Olivier Legault</name><email>/contact/</email></author><category term="neurodéveloppement" /><category term="pratique clinique" /><category term="autisme" /><category term="acétaminophène" /><category term="grossesse" /><category term="pédiatrie du développement" /><category term="actualité" /><summary type="html"><![CDATA[À la suite des manchettes liant Tylenol et autisme, rappelons ce que dit la science et ce qui importe vraiment : accompagner les enfants et leurs familles.]]></summary></entry><entry><title type="html">TSAF et neurodéveloppement : repenser le diagnostic au service des besoins de l’enfant</title><link href="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF" rel="alternate" type="text/html" title="TSAF et neurodéveloppement : repenser le diagnostic au service des besoins de l’enfant" /><published>2025-07-29T00:00:00+00:00</published><updated>2025-07-29T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/TSAF</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2025-07-29-TSAF"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<hr />
 
 <aside class="sidebar__right">
 <nav class="toc">
@@ -93,8 +200,6 @@ Il représente des enfants, des adolescents et des adultes avec des forces, des 
 
   </nav>
 </aside>
-
-<h2 id="introduction">Introduction</h2>
 
 <p>L’exposition prénatale à l’alcool a été associé à des atteintes développementales significatives, allant d’atteintes subtils de sur le plan cognitif et du comportement à des déficits plus sévères touchant plusieurs domaines.</p>
 
