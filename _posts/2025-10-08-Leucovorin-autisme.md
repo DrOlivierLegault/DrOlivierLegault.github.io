@@ -19,13 +19,13 @@ tags:
 
 {% include toc %}
 
-Les manchettes ont remis de l’avant, ces derniers temps, certaines études mettant en évidence que la prise de **leucovorine (nom commercial de l’acide folinique)** chez les enfants autistes pourrait réduire certains symptômes.  
+Les manchettes ont remis de l’avant, ces derniers temps, certaines études mettant en évidence que la prise de **leucovorine (nom commercial de l’acide folinique)** chez les enfants autistes pourrait être bénéfique.  
 
 Bien que les résultats montrent une **amélioration de scores** sur des échelles comportementales pour des sous-groupes spécifiques, il importe d’interpréter ces données avec prudence : comprendre le contexte des études, leurs limites méthodologiques et la portée réelle des résultats.  
 
-Par ailleurs, bien que la leucovorine soit généralement considéré comme sécuritaire, ce n’est pas un argument suffisant pour en recommander la prescription. Ce médicament est important pour certaines conditions, comme le traitement de certains cancers, ou pour diminuer les effets secondaires de médicaments comme le méthotrexate.  
+Par ailleurs, bien que la leucovorine soit généralement considérée comme sécuritaire, ce n’est pas un argument suffisant pour en recommander la prescription médicale. Ce médicament joue un rôle important pour certaines conditions, comme le traitement de certains cancers, ou pour diminuer les effets secondaires de médicaments comme le méthotrexate.  
 
-Enfin, il est essentiel de rappeler que ces discussions ravivent souvent une idée erronée : celle selon laquelle l’autisme serait une maladie à « guérir ». Cette conception entretient la stigmatisation et détourne l’attention des véritables besoins des personnes autistes et de leurs familles.  
+Enfin, il est essentiel de rappeler que ces discussions tendent à **renforcer une idée fausse** : que l’autisme serait une maladie à « guérir ». Une telle idée alimente la **stigmatisation** et détourne l’attention des **véritables besoins** des personnes autistes et de leurs familles.
 
 ---
 
@@ -53,7 +53,7 @@ Des tests commerciaux, comme le *Folate Receptor Autoantibody Test (FRAT)*, sont
 
 ## Ce que montrent les études
 
-À partir de données isolées, certaines personnes avancent que la leucovorine serait probablement efficace pour traiter les patients atteints d’autisme qui possèdent ces autoanticorps.[^1]
+À partir de données isolées, certaines personnes avancent que la leucovorine serait probablement efficace pour traiter les patients autistes qui possèdent ces autoanticorps.[^1]
 
 [^1]: Panda, P.K., Sharawat, I.K., Saha, S. et al. *Efficacy of oral folinic acid supplementation in children with autism spectrum disorder: a randomized double-blind, placebo-controlled trial.* Eur J Pediatr 183, 4827–4835 (2024). [https://doi.org/10.1007/s00431-024-05762-6](https://doi.org/10.1007/s00431-024-05762-6)
 
@@ -69,9 +69,9 @@ Bref, les données demeurent **préliminaires** et ne permettent pas de recomman
 
 ## Effets secondaires rapportés
 
-Les études publiées n’ont pas montré d’effets indésirables majeurs, mais les effectifs sont trop restreints pour tirer des conclusions fermes sur la sécurité à long terme.  
+Les études publiées n’ont pas montré d’effets indésirables majeurs, mais les échantillons demeurent trop petits pour tirer des conclusions sur la sécurité à long terme.  
 
-Toutefois, Santé Canada rapporte :[^4]
+Toutefois, Santé Canada rapporte au sujet de l'utilisation d'acide folinique :[^4]
 
 > Des effets indésirables ont été rarement rapportés.  
 > Des réactions allergiques, comme l’urticaire et des réactions anaphylactoïdes ou anaphylactiques (y compris le choc), ont été observées après l’administration d’acide folinique.  
@@ -106,11 +106,11 @@ Ces débats occupent souvent l’espace médiatique au détriment des véritable
 
 Lorsqu’un parent ou un collègue vous interroge sur la leucovorine :
 
-- **Reconnaître l’intérêt** pour le sujet et écouter les inquiétudes du parent.  
+- **Reconnaître l’intérêt** pour le sujet et écouter les préoccupations du parent.  
 - **Présenter les faits** : les études sont limitées, de petite taille et difficilement généralisables.  
 - **Expliquer les incertitudes** : absence de preuve de bénéfice clinique global, tests biologiques non fiables.  
 - **Mentionner la sécurité relative**, mais aussi les enjeux d’accès et de coût.  
-- **Comprendre qu’il est tout à fait légitime, voire recommandé, de ne pas prescrire** : les données actuelles ne soutiennent pas son usage systématique. Toutefois, cela n’empêche pas d’accompagner les familles qui souhaitent se procurer le produit en vente libre.
+- **Comprendre qu’il est tout à fait légitime, voire recommandé, de ne pas procéder à une prescription médicale** : les données actuelles ne soutiennent pas son usage systématique. Toutefois, cela n’empêche pas d’accompagner les familles qui souhaitent se procurer le produit en vente libre.
 - **Valoriser les approches fondées sur le soutien**, la compréhension du profil de l’enfant et le renforcement de ses forces.  
 - **Expliquer** que les tests disponibles en ligne comme le *FRAA* ne sont pas fiables.  
 
@@ -119,6 +119,6 @@ Lorsqu’un parent ou un collègue vous interroge sur la leucovorine :
 ## Conclusion
 
 La leucovorine fait partie d’un champ de recherche intéressant, mais encore **expérimental**.  
-Les données probantes sont actuellement **insuffisantes** pour recommander son utilisation dans le traitement de l’autisme.  
+Les données probantes sont actuellement **insuffisantes** pour recommander son utilisation chez les enfants autistes.  
 
-Notre responsabilité, comme cliniciens, est de **soutenir les familles** avec rigueur, empathie et esprit critique, tout en évitant de promouvoir des interventions non validées qui risquent de détourner l’attention des véritables besoins des enfants.
+Notre responsabilité, comme cliniciens, demeure de **soutenir les familles** avec rigueur, empathie et esprit critique, tout en évitant de promouvoir des interventions non validées qui risquent de détourner l’attention des véritables besoins des enfants.
