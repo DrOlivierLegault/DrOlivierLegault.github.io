@@ -122,3 +122,7 @@ La leucovorine fait partie d’un champ de recherche intéressant, mais encore *
 Les données probantes sont actuellement **insuffisantes** pour recommander son utilisation chez les enfants autistes.  
 
 Notre responsabilité, comme cliniciens, demeure de **soutenir les familles** avec rigueur, empathie et esprit critique, tout en évitant de promouvoir des interventions non validées qui risquent de détourner l’attention des véritables besoins des enfants.
+
+---
+
+## Références
