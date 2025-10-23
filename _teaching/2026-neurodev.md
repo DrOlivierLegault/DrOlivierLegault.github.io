@@ -21,4 +21,4 @@ Cette journée, destinée aux médecins, pédiatres, infirmières praticiennes s
 
 ℹ️ Pour consulter les détails complets du programme et vous inscrire :  
 👉 
-[Visitez la liste des activités à venir organisées par le Service congrès et formation de la Direction de l'enseignement et de l'innovation pédagogique du CHU Sainte-Justine.](https://enseignement.chusj.org/fr/Formation-continue/Colloques-congres-conferences/Liste-des-activites-a-venir/)
+[2e Journée de formation sur les troubles du neurodéveloppement](https://event.fourwaves.com/fr/neurodev2026/pages/)
