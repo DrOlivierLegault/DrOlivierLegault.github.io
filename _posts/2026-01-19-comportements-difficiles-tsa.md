@@ -1,5 +1,6 @@
 ---
 title: "Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement"
+date: 2026-01-19
 og_image: /images/og_image.jpg
 layout: single
 permalink: /ressources-cliniques/2026-01-19-comportements-difficiles-tsa
