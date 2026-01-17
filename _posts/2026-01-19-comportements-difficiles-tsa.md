@@ -65,9 +65,9 @@ Chez les enfants autistes, plusieurs comportements s’inscrivent dans un profil
 
 > **Principe clinique central** : ce n’est pas le comportement en soi qui est problématique, mais son **impact sur le fonctionnement, la sécurité et la qualité de vie**.
 
-<div class="mermaid">
+```mermaid
 flowchart TD
-A[Changement de fonctionnement observé] --> B{Impact sur la sécurité<br/>ou la qualité de vie ?}
+A[Changement de fonctionnement observé] --> B{Impact sur la sécurité\nou la qualité de vie ?}
 B -->|Oui| C[Évaluation globale]
 B -->|Non| D[Surveillance et soutien]
 
@@ -82,7 +82,7 @@ G --> J[Soutien et interventions non-pharmacologiques]
 H --> K[Amélioration du fonctionnement]
 I --> K
 J --> K
-</div>
+```
 
 Le concept de **bris de fonctionnement** permet ainsi de guider l’évaluation clinique sans pathologiser inutilement les traits autistiques.
 
