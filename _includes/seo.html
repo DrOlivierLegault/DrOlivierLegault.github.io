@@ -134,7 +134,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if site.og_image %}
+{% if site.og_image and page.layout != "single" %}
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
