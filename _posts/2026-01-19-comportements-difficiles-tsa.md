@@ -1,11 +1,11 @@
 ---
 title: "Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement"
-date: 2026-01-20
-og_image: /og/2026-01-20-comportements-difficiles-tsa.png
+date: 2026-01-19
+og_image: /teaser/2026-01-20-comportements-difficiles-tsa_2.png
 header:
-  teaser: /teaser/2026-01-20-comportements-difficiles-tsa.png
+  teaser: /teaser/2026-01-20-comportements-difficiles-tsa_2.png
 layout: single
-permalink: /ressources-cliniques/2026-01-20-comportements-difficiles-tsa
+permalink: /ressources-cliniques/2026-01-19-comportements-difficiles-tsa
 author_profile: true
 read_time: true
 excerpt: "Les comportements difficiles chez l’enfant autiste sont souvent l’expression d’un bris de fonctionnement. Comment les comprendre, les évaluer et intervenir?"
