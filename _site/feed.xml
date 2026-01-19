@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-19T14:54:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement</title><link href="http://localhost:4000/ressources-cliniques/2026-01-19-comportements-difficiles-tsa" rel="alternate" type="text/html" title="Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement" /><published>2026-01-19T00:00:00+00:00</published><updated>2026-01-19T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/comportements-difficiles-tsa</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2026-01-19-comportements-difficiles-tsa"><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-19T22:09:21+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dr Olivier Legault</title><subtitle>Pédiatre du développement et chercheur au centre de recherche du CHU Sainte-Justine</subtitle><author><name>Dr Olivier Legault</name><email>/contact/</email></author><entry><title type="html">Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement</title><link href="http://localhost:4000/ressources-cliniques/2026-01-19-comportements-difficiles-tsa" rel="alternate" type="text/html" title="Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement" /><published>2026-01-19T00:00:00+00:00</published><updated>2026-01-19T00:00:00+00:00</updated><id>http://localhost:4000/ressources-cliniques/comportements-difficiles-tsa</id><content type="html" xml:base="http://localhost:4000/ressources-cliniques/2026-01-19-comportements-difficiles-tsa"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <p>En clinique, les demandes pour des <strong>comportements dits difficiles</strong> ou <strong>perturbateurs</strong> chez les enfants et adolescents autistes sont fréquentes. Les familles consultent souvent après une période de relative stabilité, lorsque « <strong>quelque chose ne fonctionne plus</strong> » : crises plus fréquentes, irritabilité, difficultés d’endormissement ou de maintien du sommeil, retrait ou isolement social, ou comportements qui compromettent la sécurité ou la participation aux activités quotidiennes.</p>
 
 <div class="editorial-note" style="border-left: 4px solid var(--global-link-color); background-color: #f7f5f1; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <strong>Note sur le langage</strong><br />
   <p style="margin: 0.5rem 0 0 0; color: var(--global-text-color);">
-    Dans ce texte, les expressions <em>comportements perturbateurs</em> ou <em>comportements difficiles</em> sont employées dans un cadre strictement clinique, visant à décrire un <strong>impact fonctionnel</strong>. Elles ne cherchent en aucun cas à pathologiser des comportements autistiques ni à étiqueter l’enfant. Leur usage permet d'être intégré dans une démarche d’évaluation globale. Ces termes réfèrent  à des comportements qui entravent le fonctionnement adaptatif quotidien, que ce soit pour l’enfant lui-même ou pour son entourage.
+    Dans ce texte, les expressions <em>comportements perturbateurs</em> ou <em>comportements difficiles</em> sont employés dans un cadre strictement clinique, visant à décrire un <strong>impact fonctionnel</strong>. Elles ne cherchent en aucun cas à pathologiser des comportements autistiques ni à étiqueter l’enfant. Leur usage permet d'être intégré dans une démarche d’évaluation globale. Ces termes réfèrent  à des comportements qui entravent le fonctionnement adaptatif quotidien, que ce soit pour l’enfant lui-même ou pour son entourage.
   </p>
 </div>
 
@@ -27,9 +27,10 @@
 
 <ul>
   <li>agressivité</li>
-  <li>crises sévères ou fréquentes</li>
+  <li>crises sévères, fréquentes ou prolongées</li>
   <li>automutilation</li>
-  <li>agitation motrice importante ou rigidité</li>
+  <li>agitation motrice importante</li>
+  <li>comportements compromettant la sécurité de l’enfant ou de son entourage</li>
 </ul>
 
 <p>Chez les enfants autistes, plusieurs comportements s’inscrivent dans un profil neurodéveloppemental diversifié. Ces comportements ne sont pas problématiques en soi et ne doivent pas être considérés comme des « symptômes à éliminer ». Bien souvent, ces comportements sont plus souvent qu’autrement <strong>adaptatifs</strong>, permettant à l’enfant de se réguler, se rassurer ou à structurer son environnement. Ils deviennent préoccupants lorsque leur <strong>intensité, leur fréquence ou leur impact sur le fonctionnement</strong> augmentent au point de désorganiser la vie quotidienne ou mener à une détresse chez l’enfant.</p>
@@ -40,61 +41,71 @@
 
 <p>Dans la pratique, un même comportement peut être à la fois adaptatif dans un contexte donné et devenir problématique dans un autre. L’évaluation repose donc sur l’analyse du contexte.</p>
 
+<p>Dans la pratique, une même <strong>stratégie comportementale</strong> peut soutenir l’adaptation dans un contexte donné et devenir un <strong>signal de bris de fonctionnement</strong> dans un autre.<br />
+L’évaluation clinique repose donc sur l’analyse du <strong>contexte</strong>, du <strong>retentissement</strong> et des <strong>besoins sous-jacents</strong>.</p>
+
 <table>
   <thead>
     <tr>
-      <th>Comportement</th>
-      <th>Peut être adaptatif</th>
-      <th>Peut devenir problématique</th>
-      <th>Critère clé</th>
+      <th>Stratégie ou profil comportemental</th>
+      <th>Peut soutenir l’adaptation</th>
+      <th>Peut signaler un bris de fonctionnement</th>
+      <th>Critère clinique clé</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Comportements répétitifs</strong></td>
-      <td>Effet apaisant<br />Auto-régulation émotionnelle<br />(ex. balancement, répétition de phrases)</td>
-      <td>Blessures<br />Douleur<br />Entrave à la participation</td>
+      <td><strong>Comportements auto-régulateurs répétitifs</strong></td>
+      <td>Apaisement<br />Régulation émotionnelle<br />(ex. balancement, répétition de phrases)</td>
+      <td>Douleur ou blessures<br />Limitation marquée de la participation</td>
       <td>Impact sur le fonctionnement ou la sécurité</td>
     </tr>
     <tr>
-      <td><strong>Intérêts spécifiques</strong></td>
-      <td>Source de motivation<br />Peut favoriser l’engagement social</td>
-      <td>Isolement<br />Rigidité excessive</td>
-      <td>Flexibilité et retentissement quotidien</td>
+      <td><strong>Intérêts spécifiques et profonds</strong></td>
+      <td>Source de motivation<br />Support à l’apprentissage et à l’engagement social</td>
+      <td>Réduction importante de la flexibilité<br />Retentissement sur la vie quotidienne</td>
+      <td>Équilibre et retentissement fonctionnel</td>
     </tr>
     <tr>
-      <td><strong>Routines et constance</strong></td>
-      <td>Environnement prévisible<br />Réduction de l’anxiété</td>
-      <td>Transitions très difficiles<br />Détresse marquée</td>
-      <td>Capacité d’adaptation</td>
+      <td><strong>Préférence pour la prévisibilité et les routines</strong></td>
+      <td>Sécurité émotionnelle<br />Diminution de l’anxiété</td>
+      <td>Détresse importante lors des changements<br />Transitions très difficiles</td>
+      <td>Capacité d’ajustement avec soutien</td>
     </tr>
     <tr>
-      <td><strong>Réactions sensorielles</strong></td>
-      <td>Protection sensorielle<br />Effet apaisant</td>
-      <td>Évitement sévère<br />Limitation fonctionnelle</td>
-      <td>Tolérance et retentissement</td>
+      <td><strong>Réponses sensorielles atypiques</strong></td>
+      <td>Auto-protection sensorielle<br />Maintien de l’équilibre sensoriel</td>
+      <td>Évitement envahissant<br />Restriction significative des activités</td>
+      <td>Tolérance et participation fonctionnelle</td>
     </tr>
     <tr>
-      <td><strong>Comportement moteur élevé</strong></td>
-      <td>Aide à la régulation</td>
-      <td>Danger physique<br />Désorganisation</td>
-      <td>Sécurité et participation</td>
+      <td><strong>Niveau d’activité motrice élevé</strong></td>
+      <td>Soutien à l’autorégulation<br />Expression corporelle</td>
+      <td>Risque pour la sécurité<br />Désorganisation du fonctionnement quotidien</td>
+      <td>Sécurité et accès aux activités</td>
     </tr>
   </tbody>
 </table>
 
 <div class="clinical-principle" style="
-  border-left: 6px solid var(--info-color);
-  background: linear-gradient(90deg, #f2f8f8 0%, #f7f5f1 100%);
+  background-color: #f5f7f5;
+  border: 1.5px solid #94bfa3;
   padding: 1.25rem 1.5rem;
   margin: 2rem 0;
   border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 ">
-  <strong style="color: var(--info-color); font-size: 1.05rem;">
+  <strong style="
+    color: #4f6f64;
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+  ">
     Principe clinique central
   </strong>
-  <p style="margin: 0.75rem 0 0 0; font-size: 1rem;">
+  <p style="
+    margin: 0.75rem 0 0 0;
+    font-size: 1rem;
+    color: #2a2a2a;
+  ">
     Ce n’est <strong>pas le comportement en soi</strong> qui est problématique, mais
     lorsque sa présentation entraîne un <strong>impact sur le fonctionnement,
     la sécurité et la qualité de vie</strong> de l’enfant et de sa famille.
@@ -217,7 +228,7 @@ style K fill:#e9f3ef,stroke:#62c462,color:#222222
 
 <h2 id="approche-clinique-des-investigations-ciblées">Approche clinique des investigations ciblées</h2>
 
-<p>L’approche présentée s’inscrit dans une logique de <strong>soins proportionnés</strong>, visant à limiter les investigations inutiles tout en évitant le sous-diagnostic de conditions médicales traitables chez une population à risque de présentation atypique.</p>
+<p>L’approche présentée s’inscrit dans une logique de <strong>soins</strong> visant à limiter les investigations inutiles tout en évitant le sous-diagnostic de conditions médicales traitables chez une population à risque de présentation atypique.</p>
 
 <p>Les investigations et le traitement des causes médicales <strong>probables</strong> doivent être guidés par le <strong>jugement clinique</strong>, en fonction de l’histoire, de l’examen physique et du contexte global de l’enfant.</p>
 
@@ -343,7 +354,7 @@ style K fill:#e9f3ef,stroke:#62c462,color:#222222
   <li>soutien parental</li>
 </ul>
 
-<p>L’objectif n’est pas d’éliminer les comportements, mais de <strong>réduire la détresse</strong> et de travailler vers un fonctionnement plus stable.</p>
+<p>L’objectif n’est pas d’éliminer les comportements, mais de <strong>réduire la détresse</strong> et de favoriser un <strong>fonctionnement plus stable et sécuritaire</strong> pour l’enfant et sa famille.</p>
 
 <hr />
 

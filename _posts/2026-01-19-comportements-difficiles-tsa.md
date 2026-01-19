@@ -27,7 +27,7 @@ En clinique, les demandes pour des **comportements dits difficiles** ou **pertur
 <div class="editorial-note" style="border-left: 4px solid var(--global-link-color); background-color: #f7f5f1; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <strong>Note sur le langage</strong><br>
   <p style="margin: 0.5rem 0 0 0; color: var(--global-text-color);">
-    Dans ce texte, les expressions <em>comportements perturbateurs</em> ou <em>comportements difficiles</em> sont employées dans un cadre strictement clinique, visant à décrire un <strong>impact fonctionnel</strong>. Elles ne cherchent en aucun cas à pathologiser des comportements autistiques ni à étiqueter l’enfant. Leur usage permet d'être intégré dans une démarche d’évaluation globale. Ces termes réfèrent  à des comportements qui entravent le fonctionnement adaptatif quotidien, que ce soit pour l’enfant lui-même ou pour son entourage.
+    Dans ce texte, les expressions <em>comportements perturbateurs</em> ou <em>comportements difficiles</em> sont employés dans un cadre strictement clinique, visant à décrire un <strong>impact fonctionnel</strong>. Elles ne cherchent en aucun cas à pathologiser des comportements autistiques ni à étiqueter l’enfant. Leur usage permet d'être intégré dans une démarche d’évaluation globale. Ces termes réfèrent  à des comportements qui entravent le fonctionnement adaptatif quotidien, que ce soit pour l’enfant lui-même ou pour son entourage.
   </p>
 </div>
 
@@ -46,9 +46,10 @@ Comment aborder cet exemple de consultation avec une approche clinique adaptée,
 On parle de comportements difficiles ou perturbateurs — ou, de façon plus neutre, de **comportements associés à un bris de fonctionnement** — lorsqu’un comportement **entrave significativement le fonctionnement adaptatif** de l’enfant ou de sa famille. Cela peut inclure :
 
 * agressivité
-* crises sévères ou fréquentes
-* automutilation
-* agitation motrice importante ou rigidité
+* crises sévères, fréquentes ou prolongées
+*	automutilation
+*	agitation motrice importante
+* comportements compromettant la sécurité de l’enfant ou de son entourage
 
 Chez les enfants autistes, plusieurs comportements s’inscrivent dans un profil neurodéveloppemental diversifié. Ces comportements ne sont pas problématiques en soi et ne doivent pas être considérés comme des « symptômes à éliminer ». Bien souvent, ces comportements sont plus souvent qu'autrement **adaptatifs**, permettant à l’enfant de se réguler, se rassurer ou à structurer son environnement. Ils deviennent préoccupants lorsque leur **intensité, leur fréquence ou leur impact sur le fonctionnement** augmentent au point de désorganiser la vie quotidienne ou mener à une détresse chez l'enfant.
 
@@ -58,26 +59,37 @@ Chez les enfants autistes, plusieurs comportements s’inscrivent dans un profil
 
 Dans la pratique, un même comportement peut être à la fois adaptatif dans un contexte donné et devenir problématique dans un autre. L’évaluation repose donc sur l’analyse du contexte.
 
-| Comportement                                   | Peut être adaptatif                                                                    | Peut devenir problématique                     | Critère clé                                 |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------- |
-| **Comportements répétitifs** | Effet apaisant<br>Auto-régulation émotionnelle<br>(ex. balancement, répétition de phrases) | Blessures<br>Douleur<br>Entrave à la participation | Impact sur le fonctionnement ou la sécurité |
-| **Intérêts spécifiques**                       | Source de motivation<br>Peut favoriser l’engagement social                                 | Isolement<br>Rigidité excessive                    | Flexibilité et retentissement quotidien     |
-| **Routines et constance**                      | Environnement prévisible<br>Réduction de l’anxiété                                         | Transitions très difficiles<br>Détresse marquée    | Capacité d’adaptation                       |
-| **Réactions sensorielles**                     | Protection sensorielle<br>Effet apaisant                                                   | Évitement sévère<br>Limitation fonctionnelle       | Tolérance et retentissement                 |
-| **Comportement moteur élevé**                  | Aide à la régulation                                                                       | Danger physique<br>Désorganisation                 | Sécurité et participation                   |
+Dans la pratique, une même **stratégie comportementale** peut soutenir l’adaptation dans un contexte donné et devenir un **signal de bris de fonctionnement** dans un autre.  
+L’évaluation clinique repose donc sur l’analyse du **contexte**, du **retentissement** et des **besoins sous-jacents**.
+
+| Stratégie ou profil comportemental | Peut soutenir l’adaptation | Peut signaler un bris de fonctionnement | Critère clinique clé |
+|-----------------------------------|----------------------------|------------------------------------------|----------------------|
+| **Comportements auto-régulateurs répétitifs** | Apaisement<br>Régulation émotionnelle<br>(ex. balancement, répétition de phrases) | Douleur ou blessures<br>Limitation marquée de la participation | Impact sur le fonctionnement ou la sécurité |
+| **Intérêts spécifiques et profonds** | Source de motivation<br>Support à l’apprentissage et à l’engagement social | Réduction importante de la flexibilité<br>Retentissement sur la vie quotidienne | Équilibre et retentissement fonctionnel |
+| **Préférence pour la prévisibilité et les routines** | Sécurité émotionnelle<br>Diminution de l’anxiété | Détresse importante lors des changements<br>Transitions très difficiles | Capacité d’ajustement avec soutien |
+| **Réponses sensorielles atypiques** | Auto-protection sensorielle<br>Maintien de l’équilibre sensoriel | Évitement envahissant<br>Restriction significative des activités | Tolérance et participation fonctionnelle |
+| **Niveau d’activité motrice élevé** | Soutien à l’autorégulation<br>Expression corporelle | Risque pour la sécurité<br>Désorganisation du fonctionnement quotidien | Sécurité et accès aux activités |
+
 
 <div class="clinical-principle" style="
-  border-left: 6px solid var(--info-color);
-  background: linear-gradient(90deg, #f2f8f8 0%, #f7f5f1 100%);
+  background-color: #f5f7f5;
+  border: 1.5px solid #94bfa3;
   padding: 1.25rem 1.5rem;
   margin: 2rem 0;
   border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 ">
-  <strong style="color: var(--info-color); font-size: 1.05rem;">
+  <strong style="
+    color: #4f6f64;
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+  ">
     Principe clinique central
   </strong>
-  <p style="margin: 0.75rem 0 0 0; font-size: 1rem;">
+  <p style="
+    margin: 0.75rem 0 0 0;
+    font-size: 1rem;
+    color: #2a2a2a;
+  ">
     Ce n’est <strong>pas le comportement en soi</strong> qui est problématique, mais
     lorsque sa présentation entraîne un <strong>impact sur le fonctionnement,
     la sécurité et la qualité de vie</strong> de l’enfant et de sa famille.
@@ -179,7 +191,7 @@ Conditions fréquemment associées à un bris de fonctionnement :
 
 ## Approche clinique des investigations ciblées
 
-L'approche présentée s’inscrit dans une logique de **soins proportionnés**, visant à limiter les investigations inutiles tout en évitant le sous-diagnostic de conditions médicales traitables chez une population à risque de présentation atypique.
+L'approche présentée s’inscrit dans une logique de **soins** visant à limiter les investigations inutiles tout en évitant le sous-diagnostic de conditions médicales traitables chez une population à risque de présentation atypique.
 
 Les investigations et le traitement des causes médicales **probables** doivent être guidés par le **jugement clinique**, en fonction de l’histoire, de l’examen physique et du contexte global de l’enfant.
 
@@ -251,7 +263,7 @@ Une fois les causes médicales exclues ou traitées, l’intervention repose sur
 * stratégies adaptées au profil sensoriel
 * soutien parental
 
-L’objectif n’est pas d’éliminer les comportements, mais de **réduire la détresse** et de travailler vers un fonctionnement plus stable.
+L’objectif n’est pas d’éliminer les comportements, mais de **réduire la détresse** et de favoriser un **fonctionnement plus stable et sécuritaire** pour l’enfant et sa famille.
 
 ---
 
