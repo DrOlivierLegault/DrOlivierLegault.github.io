@@ -1,12 +1,14 @@
 ---
 title: "Comportements difficiles chez l’enfant autiste : comprendre le bris de fonctionnement"
 date: 2026-01-20
-og_image: /images/og_image.jpg
+og_image: /og/2026-01-20-comportements-difficiles-tsa.png
+header:
+  teaser: /teaser/2026-01-20-comportements-difficiles-tsa.png
 layout: single
 permalink: /ressources-cliniques/2026-01-20-comportements-difficiles-tsa
 author_profile: true
 read_time: true
-excerpt: "Les comportements difficiles chez l’enfant autiste sont souvent l’expression d’un bris de fonctionnement. Comment les comprendre, les évaluer et intervenir de façon pragmatique et respectueuse de la neurodiversité?"
+excerpt: "Les comportements difficiles chez l’enfant autiste sont souvent l’expression d’un bris de fonctionnement. Comment les comprendre, les évaluer et intervenir?"
 
 categories:
 - neurodéveloppement
@@ -33,7 +35,7 @@ Bien que les facteurs non médicaux soient primordiaux à évaluer, ce texte met
 
 > *Léo, 11 ans, autiste avec handicap intellectuel, non verbal, communique à l’aide de pictogrammes sur sa tablette. Depuis quelques semaines, ses parents observent une augmentation marquée de son niveau d’activité, des crises quotidiennes et une détérioration importante du sommeil. La famille est épuisée et inquiète.*
 
-Comment aborder cet exemple de consultation avec une approche clinique adaptée, rigoureuse, et respectueuse de la neurodiversité?
+Comment aborder cet exemple de consultation avec une approche clinique adaptée, rigoureuse, et respectueuse?
 
 ---
 
@@ -183,7 +185,7 @@ Les investigations et le traitement des causes médicales **probables** doivent 
 
 Il n’est **pas indiqué de procéder systématiquement à des investigations d’emblée**. Des examens non ciblés peuvent entraîner un stress important, une détresse inutile, voire un vécu traumatique pour l’enfant, sans bénéfice clinique.
 
-L’approche recommandée privilégie donc des **investigations ciblées**, réalisées uniquement lorsqu’elles sont susceptibles d’orienter la prise en charge ou de modifier le traitement, dans une perspective de soins proportionnés, respectueux et centrés sur l’enfant.
+L’approche recommandée privilégie donc des **investigations ciblées**, réalisées uniquement lorsqu’elles sont susceptibles d’orienter la prise en charge ou de modifier le traitement.
 
 ### Principaux diagnostics et interventions médicales
 
@@ -249,7 +251,7 @@ Une fois les causes médicales exclues ou traitées, l’intervention repose sur
 * stratégies adaptées au profil sensoriel
 * soutien parental
 
-L’objectif n’est pas d’éliminer les comportements, mais de **réduire la détresse** et de restaurer un fonctionnement plus stable.
+L’objectif n’est pas d’éliminer les comportements, mais de **réduire la détresse** et de travailler vers un fonctionnement plus stable.
 
 ---
 
@@ -263,7 +265,7 @@ Dans l’évaluation globale d’un bris de fonctionnement, il est essentiel de 
 
 Chez l’enfant autiste, les comportements dits difficiles sont rarement le problème principal. Ils constituent le plus souvent un **signal clinique** : celui d’un déséquilibre entre les besoins de l’enfant, ses capacités et son environnement.
 
-Une approche rigoureuse, respectueuse de la neurodiversité et centrée sur le fonctionnement permet :
+Cette approche centrée sur le fonctionnement permet :
 - d’éviter la médicalisation excessive,
 - de ne pas passer à côté de conditions médicales traitables,
 - et d'offrir soutien et support pour l’enfant et sa famille.
