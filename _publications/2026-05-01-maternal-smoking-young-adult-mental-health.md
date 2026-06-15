@@ -6,7 +6,7 @@ permalink: /publication/2026-05-01-maternal-smoking-young-adult-mental-health
 excerpt: 'A longitudinal study using administrative data examining whether maternal smoking from prepregnancy through early adolescence (age 13) is associated with mental health disorders in young adult offspring.'
 date: 2026-05-01
 venue: 'Pediatrics Open Science'
-paperurl: 'https://doi.org/10.1542/peds.2024-207723'
+paperurl: 'https://doi.org/10.1542/peds.2025-001060'
 citation: 'Legault, O., Collet, O., Martínez, P., Côté, S. M., et al. (2026). "Association of prepregnancy to early adolescence maternal smoking with young adult mental health." <i>Pediatrics Open Science</i>. 2(2).'
 ---
 
