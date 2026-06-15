@@ -30,12 +30,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/recherche/projets/exposition-tabac/</loc>
+<lastmod>2026-06-15T18:41:43+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/recherche/projets/famille-autisme/</loc>
+<lastmod>2026-06-15T18:41:43+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/recherche/projets/prevalence-tsaf/</loc>
+<lastmod>2026-06-15T18:41:43+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publication/2020-12-01-severe-hypercalcemia-pelvic-brown-tumor</loc>
@@ -52,6 +55,10 @@
 <url>
 <loc>http://localhost:4000/publication/2025-05-12-maternal-smoking-mental-health</loc>
 <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publication/2026-05-01-maternal-smoking-young-adult-mental-health</loc>
+<lastmod>2026-05-01T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/2025-fall-colloque-pediatrie-scolaire/</loc>
