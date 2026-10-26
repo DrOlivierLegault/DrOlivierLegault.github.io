@@ -9,6 +9,12 @@ author_profile: true
 ---
 ## Objectif du projet
 Ce projet explore comment certains facteurs démographiques, notamment le **statut d’immigration des parents** et le **niveau socioéconomique**, sont associés au **trouble du spectre de l’autisme (TSA)** et à d’autres troubles du neurodéveloppement chez les enfants du Québec. Il vise aussi à savoir si l’**accès aux services d’intervention précoce en CLSC** diffère selon ces caractéristiques.
+<div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid #e0e0e0;">
+  <p style="margin: 0 0 0.5rem; font-size: 0.85rem; color: #777;">Ce projet est financé par</p>
+  <a href="https://odise.ca" target="_blank" rel="noopener">
+    <img src="/images/Odisee_logo.svg" alt="Logo d’Odise" style="height: 60px; width: auto; background: #fff; padding: 0.5rem 0.75rem; border-radius: 6px;">
+  </a>
+</div>
 
 Le projet est actuellement en phase de préparation.
 
