@@ -130,6 +130,9 @@
 .projet-card.a-venir {
   border-left: 5px solid var(--secondary-color, #94bfa3);
 }
+.projet-card.termine {
+  border-left: 5px solid #cdbd9f; /* beige un peu plus foncé pour rester visible sur le fond */
+}
 
 /* Header inside card */
 .projet-header {
@@ -176,6 +179,12 @@
 
 .projet-card.a-venir .projet-status {
   background-color: var(--secondary-color, #94bfa3);
+}
+
+.projet-card.termine .projet-status {
+  background-color: var(--highlight-color, #e6d9c4);
+  color: #003d4d;
+  border: 1px solid #cdbd9f;
 }
 
 /* Excerpt paragraph */
@@ -278,4 +287,38 @@
   color: #333;
   border-radius: 6px;
   max-width: 720px;
+}
+
+/* Badge de statut sur la page d'un projet */
+.projet-status-wrapper {
+  margin-bottom: 1rem;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.4em 0.8em;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+.status-badge--en-cours {
+  background-color: #005f73;
+  color: #fff;
+}
+
+.status-badge--a-venir {
+  background-color: #94bfa3;
+  color: #222;
+}
+
+.status-badge--termine {
+  background-color: #e6d9c4;
+  color: #003d4d;
+  border: 1px solid #cdbd9f;
+}
+
+.status-badge--inconnu {
+  background-color: #ccc;
+  color: #222;
 }

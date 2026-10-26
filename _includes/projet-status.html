@@ -1,0 +1,20 @@
+
+{% assign statut = page.status | default: "inconnu" %}
+{% case statut %}
+  {% when "en cours" %}
+    {% assign classe = "en-cours" %}
+    {% assign libelle = "Projet en cours" %}
+  {% when "à venir" %}
+    {% assign classe = "a-venir" %}
+    {% assign libelle = "Projet à venir" %}
+  {% when "terminé" %}
+    {% assign classe = "termine" %}
+    {% assign libelle = "Projet terminé" %}
+  {% else %}
+    {% assign classe = "inconnu" %}
+    {% assign libelle = "Statut inconnu" %}
+{% endcase %}
+
+<div class="projet-status-wrapper">
+  <span class="status-badge status-badge--{{ classe }}">{{ libelle }}</span>
+</div>

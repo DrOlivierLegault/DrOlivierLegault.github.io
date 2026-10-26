@@ -19,7 +19,7 @@ Ma pratique clinique et mes collaborations en recherche visent à mieux comprend
 
 Formation
 ======
-* **Maîtrise en santé publique – recherche (M.Sc.)** – École de santé publique, Université de Montréal *(2023–2025, en cours)*  
+* **Maîtrise en santé publique – recherche (M.Sc.)** – École de santé publique, Université de Montréal *(2023–2026)*  
 * **Fellowship en pédiatrie du développement** – Université de Montréal *(2021–2023)*  
 * **Tronc commun en pédiatrie générale** – University of Saskatchewan *(2018–2021)*  
 * **Fellow du Collège royal en pédiatrie (FRCPC)** – Université de Montréal  
@@ -34,6 +34,9 @@ Expérience professionnelle
 
 * **Pédiatre du développement**  
   * CHU Sainte-Justine et Centre de réadaptation Marie-Enfant *(depuis mai 2024)*
+
+* **Chef de la section de la Pédiatrie du développement**
+  * CHU Sainte-Justine
 
 * **Chargé de cours**  
   * Université du Québec en Outaouais *(sept. 2024)*  

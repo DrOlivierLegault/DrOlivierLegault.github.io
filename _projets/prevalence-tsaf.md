@@ -3,7 +3,7 @@ title: "Prévalence du trouble de l’alcoolisation fœtale (TSAF)"
 layout: single
 sidebar: true
 permalink: /recherche/projets/prevalence-tsaf/
-status: à venir
+status: en cours
 collection: projets
 author_profile: true
 ---
@@ -22,18 +22,4 @@ Pour plus de détails sur le protocole de diagnostic recommandé pour les enfant
 
 ---
 
-<div style="margin-bottom: 1rem;">
-  {% if page.status == "en cours" %}
-    <span style="background-color: #005f73; color: white; padding: 0.4em 0.8em; border-radius: 5px; font-weight: 600; font-size: 0.9em;">
-      Projet en cours
-    </span>
-  {% elsif page.status == "à venir" %}
-    <span style="background-color: #94bfa3; color: #222; padding: 0.4em 0.8em; border-radius: 5px; font-weight: 600; font-size: 0.9em;">
-      Projet à venir
-    </span>
-  {% else %}
-    <span style="background-color: #ccc; color: #222; padding: 0.4em 0.8em; border-radius: 5px; font-weight: 600; font-size: 0.9em;">
-      Statut inconnu
-    </span>
-  {% endif %}
-</div>
+{% include projet-status.html %}

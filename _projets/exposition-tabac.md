@@ -3,7 +3,7 @@ title: "Impact de l’exposition prénatale et postnatale au tabac sur la santé
 layout: single
 sidebar: true
 permalink: /recherche/projets/exposition-tabac/
-status: en cours
+status: terminé
 collection: projets
 author_profile: true
 ---
@@ -27,18 +27,4 @@ Les résultats, à paraître prochainement, suggèrent :
 
 ---
 
-<div style="margin-bottom: 1rem;">
-  {% if page.status == "en cours" %}
-    <span style="background-color: #005f73; color: white; padding: 0.4em 0.8em; border-radius: 5px; font-weight: 600; font-size: 0.9em;">
-      Projet en cours
-    </span>
-  {% elsif page.status == "à venir" %}
-    <span style="background-color: #94bfa3; color: #222; padding: 0.4em 0.8em; border-radius: 5px; font-weight: 600; font-size: 0.9em;">
-      Projet à venir
-    </span>
-  {% else %}
-    <span style="background-color: #ccc; color: #222; padding: 0.4em 0.8em; border-radius: 5px; font-weight: 600; font-size: 0.9em;">
-      Statut inconnu
-    </span>
-  {% endif %}
-</div>
+{% include projet-status.html %}
